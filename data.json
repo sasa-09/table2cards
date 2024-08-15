@@ -4,6 +4,7 @@
         "transc": "[biː]",
         "transl": "быть",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -12,6 +13,7 @@
         "transc": "[duː]",
         "transl": "делать",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -20,6 +22,7 @@
         "transc": "[hæv]",
         "transl": "иметь",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -28,6 +31,7 @@
         "transc": "[meɪk]",
         "transl": "делать",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -36,6 +40,7 @@
         "transc": "[gɛt]",
         "transl": "получать, становиться",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -44,6 +49,7 @@
         "transc": "[gəʊ]",
         "transl": "идти",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -52,6 +58,7 @@
         "transc": "[teɪk]",
         "transl": "брать",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -60,6 +67,7 @@
         "transc": "[wɪl]",
         "transl": "(образует будущее время)",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -68,6 +76,7 @@
         "transc": "[muːv]",
         "transl": "двигать (-ся)",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -76,6 +85,7 @@
         "transc": "[gəʊ]",
         "transl": "идти",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -84,6 +94,7 @@
         "transc": "[wɔːk]",
         "transl": "идти пешком, гулять",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -92,6 +103,7 @@
         "transc": "[rʌn]",
         "transl": "бежать",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -100,7 +112,8 @@
         "transc": "[tɜːn]",
         "transl": "поворачивать",
         "learn": null,
-        "know": false,
+        "rd": null,
+        "know": null,
         "tags": []
     },
     "14": {
@@ -108,6 +121,7 @@
         "transc": "[flaɪ]",
         "transl": "летать",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -116,6 +130,7 @@
         "transc": "[draɪv]",
         "transl": "вести машину",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -124,6 +139,7 @@
         "transc": "[swɪm]",
         "transl": "плыть",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -132,6 +148,7 @@
         "transc": "[ʤʌmp]",
         "transl": "прыгать",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -140,6 +157,7 @@
         "transc": "[sɪt daʊn]",
         "transl": "садиться",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -148,7 +166,8 @@
         "transc": "[laɪ daʊn]",
         "transl": "ложиться",
         "learn": null,
-        "know": true,
+        "rd": null,
+        "know": null,
         "tags": []
     },
     "20": {
@@ -156,6 +175,7 @@
         "transc": "[stænd ʌp]",
         "transl": "вставать",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -164,6 +184,7 @@
         "transc": "[stænd]",
         "transl": "стоять",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -172,6 +193,7 @@
         "transc": "[laɪ]",
         "transl": "лежать",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -180,6 +202,7 @@
         "transc": "[sɪt]",
         "transl": "сидеть",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -188,6 +211,7 @@
         "transc": "[stɛp]",
         "transl": "делать шаг",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -196,6 +220,7 @@
         "transc": "[dɑːns]",
         "transl": "танцевать",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -204,6 +229,7 @@
         "transc": "[rəʊl]",
         "transl": "катить (-ся)",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -212,6 +238,7 @@
         "transc": "[pʊʃ]",
         "transl": "толкать, нажимать",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -220,6 +247,7 @@
         "transc": "[pʊl]",
         "transl": "тянуть",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -228,6 +256,7 @@
         "transc": "[pʊt]",
         "transl": "ставить, класть, помещать",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -236,6 +265,7 @@
         "transc": "[teɪk]",
         "transl": "брать",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -244,6 +274,7 @@
         "transc": "[gɪv]",
         "transl": "давать",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -252,6 +283,7 @@
         "transc": "[pɑːs]",
         "transl": "передавать",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -260,6 +292,7 @@
         "transc": "[θrəʊ]",
         "transl": "бросать",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -268,6 +301,7 @@
         "transc": "[hɪt]",
         "transl": "бить",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -276,6 +310,7 @@
         "transc": "[tʌʧ]",
         "transl": "прикасаться",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -283,8 +318,9 @@
         "word": "point at",
         "transc": "[pɔɪnt æt]",
         "transl": "указывать на что-то",
-        "learn": null,
-        "know": null,
+        "learn": 1,
+        "rd": "2024-08-17",
+        "know": false,
         "tags": []
     },
     "37": {
@@ -292,6 +328,7 @@
         "transc": "[həʊld]",
         "transl": "держать",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -300,7 +337,8 @@
         "transc": "[nɒk]",
         "transl": "стучать (напр. в дверь)",
         "learn": null,
-        "know": false,
+        "rd": null,
+        "know": null,
         "tags": []
     },
     "39": {
@@ -308,6 +346,7 @@
         "transc": "[seɪ]",
         "transl": "сказать",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -316,6 +355,7 @@
         "transc": "[spiːk]",
         "transl": "говорить",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -324,7 +364,8 @@
         "transc": "[tɛl]",
         "transl": "говорить, рассказывать, велеть",
         "learn": null,
-        "know": true,
+        "rd": null,
+        "know": null,
         "tags": []
     },
     "42": {
@@ -332,6 +373,7 @@
         "transc": "[tɔːk]",
         "transl": "разговаривать",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -340,6 +382,7 @@
         "transc": "[ɑːsk]",
         "transl": "просить, спрашивать",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -348,6 +391,7 @@
         "transc": "[ˈɑːnsə]",
         "transl": "отвечать",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -356,6 +400,7 @@
         "transc": "[kɔːl]",
         "transl": "звонить по телефону",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -364,6 +409,7 @@
         "transc": "[tɛkst]",
         "transl": "писать сообщение",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -372,6 +418,7 @@
         "transc": "[kraɪ]",
         "transl": "плакать, кричать",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -380,6 +427,7 @@
         "transc": "[ɪksˈpleɪn]",
         "transl": "объяснять",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -388,6 +436,7 @@
         "transc": "[rɪˈpiːt]",
         "transl": "повторять",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -396,6 +445,7 @@
         "transc": "[ˌʌndəˈstænd]",
         "transl": "понимать",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -404,7 +454,8 @@
         "transc": "[tiːʧ]",
         "transl": "учить (обучать)",
         "learn": null,
-        "know": true,
+        "rd": null,
+        "know": null,
         "tags": []
     },
     "52": {
@@ -412,6 +463,7 @@
         "transc": "[lɜːn]",
         "transl": "учить (учиться)",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -420,6 +472,7 @@
         "transc": "[ˈstʌdi]",
         "transl": "изучать",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -428,6 +481,7 @@
         "transc": "[riːd]",
         "transl": "читать",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -436,7 +490,8 @@
         "transc": "[raɪt]",
         "transl": "писать",
         "learn": null,
-        "know": true,
+        "rd": null,
+        "know": null,
         "tags": []
     },
     "56": {
@@ -444,6 +499,7 @@
         "transc": "[wɒʧ]",
         "transl": "смотреть, наблюдать",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -452,6 +508,7 @@
         "transc": "[ˈlɪsn]",
         "transl": "слушать",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -460,6 +517,7 @@
         "transc": "[hɪə]",
         "transl": "слышать",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -468,6 +526,7 @@
         "transc": "[hɛlp]",
         "transl": "помогать",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -476,6 +535,7 @@
         "transc": "[θɪŋk]",
         "transl": "думать",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -484,6 +544,7 @@
         "transc": "[kəˈrɛkt]",
         "transl": "исправлять",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -492,6 +553,7 @@
         "transc": "[meɪk ə mɪsˈteɪk]",
         "transl": "делать ошибку",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -500,6 +562,7 @@
         "transc": "[hɪnt]",
         "transl": "подсказывать, намекать",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -508,6 +571,7 @@
         "transc": "[fəˈgɛt]",
         "transl": "забывать",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -516,6 +580,7 @@
         "transc": "[rɪˈmɛmbə]",
         "transl": "помнить",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -524,6 +589,7 @@
         "transc": "[ˈrɪmaɪnd]",
         "transl": "напоминать",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -532,6 +598,7 @@
         "transc": "[lɪv]",
         "transl": "жить",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -540,6 +607,7 @@
         "transc": "[sliːp]",
         "transl": "спать",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -548,6 +616,7 @@
         "transc": "[weɪk ʌp]",
         "transl": "просыпаться",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -556,6 +625,7 @@
         "transc": "[gəʊ tuː bɛd]",
         "transl": "идти спать",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -564,6 +634,7 @@
         "transc": "[teɪk ə ˈʃaʊə]",
         "transl": "принимать душ",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -572,6 +643,7 @@
         "transc": "[brʌʃ wʌnz tiːθ]",
         "transl": "чистить зубы",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -580,6 +652,7 @@
         "transc": "[kəʊm wʌnz heə]",
         "transl": "причесываться",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -588,6 +661,7 @@
         "transc": "[ʃeɪv]",
         "transl": "бриться",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -596,6 +670,7 @@
         "transc": "[gɛt drɛst]",
         "transl": "одеваться",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -604,6 +679,7 @@
         "transc": "[pʊt ɒn ˈmeɪkʌp]",
         "transl": "делать макияж",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -612,6 +688,7 @@
         "transc": "[meɪk ˈbrɛkfəst]",
         "transl": "готовить завтрак",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -620,6 +697,7 @@
         "transc": "[hæv ˈbrɛkfəst]",
         "transl": "завтракать",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -628,6 +706,7 @@
         "transc": "[gəʊ tuː wɜːk]",
         "transl": "идти на работу",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -636,6 +715,7 @@
         "transc": "[wɜːk]",
         "transl": "работать",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -644,6 +724,7 @@
         "transc": "[rɛst]",
         "transl": "отдыхать",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -652,6 +733,7 @@
         "transc": "[teɪk ə bɑːθ]",
         "transl": "принимать ванну",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -660,6 +742,7 @@
         "transc": "[kʊk]",
         "transl": "готовить (еду)",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -668,6 +751,7 @@
         "transc": "[iːt]",
         "transl": "есть",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -676,6 +760,7 @@
         "transc": "[duː ˈkliːnɪŋ] [kliːn]",
         "transl": "убираться",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -684,6 +769,7 @@
         "transc": "[duː dɪʃɪz]",
         "transl": "мыть посуду",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -692,6 +778,7 @@
         "transc": "[duː ðə ˈlɔːndri]",
         "transl": "заниматься стиркой",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -700,6 +787,7 @@
         "transc": "[wɜːk aʊt]",
         "transl": "заниматься спортом",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -708,6 +796,7 @@
         "transc": "[hæv fʌn]",
         "transl": "развлекаться, веселиться",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -716,6 +805,7 @@
         "transc": "[pleɪ]",
         "transl": "играть",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -724,7 +814,8 @@
         "transc": "[bɪˈgɪn]",
         "transl": "начинаться (-ся)",
         "learn": null,
-        "know": true,
+        "rd": null,
+        "know": null,
         "tags": []
     },
     "92": {
@@ -732,6 +823,7 @@
         "transc": "[stɑːt]",
         "transl": "начинаться (-ся)",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -740,7 +832,8 @@
         "transc": "[kənˈtɪnju(ː)]",
         "transl": "продолжать (-ся)",
         "learn": null,
-        "know": true,
+        "rd": null,
+        "know": null,
         "tags": []
     },
     "94": {
@@ -748,6 +841,7 @@
         "transc": "[gəʊ ɒn]",
         "transl": "продолжать (-ся)",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -756,6 +850,7 @@
         "transc": "[ɛnd]",
         "transl": "заканчивать (-ся)",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -764,6 +859,7 @@
         "transc": "[ˈfɪnɪʃ]",
         "transl": "заканчивать (-ся)",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -772,7 +868,8 @@
         "transc": "[stɒp]",
         "transl": "прекращать, останавливать (-ся)",
         "learn": null,
-        "know": true,
+        "rd": null,
+        "know": null,
         "tags": []
     },
     "98": {
@@ -780,6 +877,7 @@
         "transc": "[kəmˈpliːt]",
         "transl": "завершать (-ся)",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -788,6 +886,7 @@
         "transc": "[pɛʊstˈpəʊn]",
         "transl": "откладывать, переносить",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -796,6 +895,7 @@
         "transc": "[pʊt ɒf]",
         "transl": "откладывать, переносить",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -804,6 +904,7 @@
         "transc": "[taɪm]",
         "transl": "время",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -812,6 +913,7 @@
         "transc": "[pɑːst]",
         "transl": "прошлое",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -820,6 +922,7 @@
         "transc": "[ˈfjuːʧə]",
         "transl": "будущее",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -828,6 +931,7 @@
         "transc": "[ˈprɛznt]",
         "transl": "настоящее",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -836,6 +940,7 @@
         "transc": "[eɪʤ]",
         "transl": "эра, эпоха (также \"возраст\")",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -844,6 +949,7 @@
         "transc": "[mɪlˈiːnɪəːm]",
         "transl": "тысячелетие",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -852,6 +958,7 @@
         "transc": "[ˈsɛnʧʊri]",
         "transl": "век",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -860,6 +967,7 @@
         "transc": "[ˈdɛkeɪd]",
         "transl": "десятилетие",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -868,6 +976,7 @@
         "transc": "[jɪə]",
         "transl": "год",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -876,6 +985,7 @@
         "transc": "[mʌnθ]",
         "transl": "месяц",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -884,6 +994,7 @@
         "transc": "[wiːk]",
         "transl": "неделя",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -892,6 +1003,7 @@
         "transc": "[deɪ]",
         "transl": "день",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -900,6 +1012,7 @@
         "transc": "[ˈaʊə]",
         "transl": "час",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -908,7 +1021,8 @@
         "transc": "[hɑːf ən ˈaʊə]",
         "transl": "полчаса",
         "learn": null,
-        "know": false,
+        "rd": null,
+        "know": null,
         "tags": []
     },
     "115": {
@@ -916,6 +1030,7 @@
         "transc": "[ˈmɪnɪt]",
         "transl": "минута",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -924,6 +1039,7 @@
         "transc": "[ˈsɛkənd]",
         "transl": "секунда",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -932,6 +1048,7 @@
         "transc": "[wɒʧ]",
         "transl": "часы (наручные)",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -940,6 +1057,7 @@
         "transc": "[klɒk]",
         "transl": "часы (настенные)",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -948,6 +1066,7 @@
         "transc": "[ˈkælɪndə]",
         "transl": "календарь",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -956,6 +1075,7 @@
         "transc": "[ˈʃɛdjuːl]",
         "transl": "расписание",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -964,6 +1084,7 @@
         "transc": "[ˈsiːzn]",
         "transl": "время года",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -971,8 +1092,9 @@
         "word": "winter",
         "transc": "[ˈwɪntə]",
         "transl": "зима",
-        "learn": null,
-        "know": null,
+        "learn": 2,
+        "rd": "2024-08-18",
+        "know": false,
         "tags": []
     },
     "123": {
@@ -980,6 +1102,7 @@
         "transc": "[sprɪŋ]",
         "transl": "весна",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -988,6 +1111,7 @@
         "transc": "[ˈsʌmə]",
         "transl": "лето",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -996,6 +1120,7 @@
         "transc": "[fɔːl] [ˈɔːtəm]",
         "transl": "осень",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1004,6 +1129,7 @@
         "transc": "[ˈʤænjʊəri]",
         "transl": "январь",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1012,6 +1138,7 @@
         "transc": "[ˈfɛbrʊəri]",
         "transl": "февраль",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1020,7 +1147,8 @@
         "transc": "[mɑːʧ]",
         "transl": "март",
         "learn": null,
-        "know": true,
+        "rd": null,
+        "know": null,
         "tags": []
     },
     "129": {
@@ -1028,6 +1156,7 @@
         "transc": "[ˈeɪprəl]",
         "transl": "апрель",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1036,6 +1165,7 @@
         "transc": "[meɪ]",
         "transl": "май",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1044,6 +1174,7 @@
         "transc": "[ʤuːn]",
         "transl": "июнь",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1052,6 +1183,7 @@
         "transc": "[ʤuˈlaɪ]",
         "transl": "июль",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1060,6 +1192,7 @@
         "transc": "[ˈɔːgəst]",
         "transl": "август",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1068,6 +1201,7 @@
         "transc": "[sɛpˈtɛmbə]",
         "transl": "сентябрь",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1076,6 +1210,7 @@
         "transc": "[ɒkˈtəʊbə]",
         "transl": "октябрь",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1084,6 +1219,7 @@
         "transc": "[nəʊˈvɛmbə]",
         "transl": "ноябрь",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1092,6 +1228,7 @@
         "transc": "[dɪˈsɛmbə]",
         "transl": "декабрь",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1100,6 +1237,7 @@
         "transc": "[ˈmʌndeɪ]",
         "transl": "понедельник",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1108,6 +1246,7 @@
         "transc": "[ˈtjuːzdeɪ]",
         "transl": "вторник",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1116,6 +1255,7 @@
         "transc": "[ˈwɛnzdeɪ]",
         "transl": "среда",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1124,6 +1264,7 @@
         "transc": "[ˈθɜːzdeɪ]",
         "transl": "четверг",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1132,6 +1273,7 @@
         "transc": "[ˈfraɪdeɪ]",
         "transl": "пятница",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1140,6 +1282,7 @@
         "transc": "[ˈsætədeɪ]",
         "transl": "суббота",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1148,6 +1291,7 @@
         "transc": "[ˈsʌndeɪ]",
         "transl": "воскресенье",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1156,6 +1300,7 @@
         "transc": "[ˈfæmɪli]",
         "transl": "семья",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1164,7 +1309,8 @@
         "transc": "[lʌv]",
         "transl": "любовь",
         "learn": null,
-        "know": true,
+        "rd": null,
+        "know": null,
         "tags": []
     },
     "147": {
@@ -1172,6 +1318,7 @@
         "transc": "[ˈhjuːmən]",
         "transl": "человек",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1180,6 +1327,7 @@
         "transc": "[ˈpiːpl]",
         "transl": "люди, народ",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1188,6 +1336,7 @@
         "transc": "[mæn]",
         "transl": "мужчина, человек",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1196,6 +1345,7 @@
         "transc": "[ˈwʊmən]",
         "transl": "женщина",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1204,6 +1354,7 @@
         "transc": "[bɔɪ]",
         "transl": "мальчик",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1212,6 +1363,7 @@
         "transc": "[gaɪ]",
         "transl": "парень",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1220,6 +1372,7 @@
         "transc": "[gɜːl]",
         "transl": "девочка, девушка",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1228,7 +1381,8 @@
         "transc": "[ˈpeərənts]",
         "transl": "родители",
         "learn": null,
-        "know": true,
+        "rd": null,
+        "know": null,
         "tags": []
     },
     "155": {
@@ -1236,6 +1390,7 @@
         "transc": "[ˈmʌðə]",
         "transl": "мать",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1244,6 +1399,7 @@
         "transc": "[ˈfɑːðə]",
         "transl": "отец",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1252,6 +1408,7 @@
         "transc": "[mɒm], [mʌm]",
         "transl": "мама",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1260,6 +1417,7 @@
         "transc": "[dæd]",
         "transl": "папа",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1268,6 +1426,7 @@
         "transc": "[ˈgrænˌmʌðə]",
         "transl": "бабушка",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1276,7 +1435,8 @@
         "transc": "[ˈgrændˌfɑːðə]",
         "transl": "дедушка",
         "learn": null,
-        "know": true,
+        "rd": null,
+        "know": null,
         "tags": []
     },
     "161": {
@@ -1284,6 +1444,7 @@
         "transc": "[ˈgrænˌpeərənts]",
         "transl": "бабушки и дедушки",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1292,6 +1453,7 @@
         "transc": "[ˈbrʌðə]",
         "transl": "брат",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1299,8 +1461,9 @@
         "word": "sister",
         "transc": "[ˈsɪstə]",
         "transl": "сестра",
-        "learn": null,
-        "know": true,
+        "learn": 2,
+        "rd": "2024-08-16",
+        "know": false,
         "tags": []
     },
     "164": {
@@ -1308,6 +1471,7 @@
         "transc": "[ˈsɪblɪŋz]",
         "transl": "братья и сестры",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1316,6 +1480,7 @@
         "transc": "[ˈkʌzn]",
         "transl": "кузен (двоюродные братья и сестры)",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1323,8 +1488,9 @@
         "word": "wife",
         "transc": "[waɪf]",
         "transl": "жена",
-        "learn": null,
-        "know": null,
+        "learn": 2,
+        "rd": "2024-08-16",
+        "know": false,
         "tags": []
     },
     "167": {
@@ -1332,6 +1498,7 @@
         "transc": "[ˈhʌzbənd]",
         "transl": "муж",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1340,7 +1507,8 @@
         "transc": "[ˈfɑːðərɪnlɔː]",
         "transl": "тесть",
         "learn": null,
-        "know": false,
+        "rd": null,
+        "know": null,
         "tags": []
     },
     "169": {
@@ -1348,6 +1516,7 @@
         "transc": "[ˈmʌðərɪnlɔː]",
         "transl": "теща",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1356,6 +1525,7 @@
         "transc": "[ˈsʌnɪnlɔː]",
         "transl": "зять",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1364,6 +1534,7 @@
         "transc": "[ˈdɔːtərɪnlɔː]",
         "transl": "невестка",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1372,6 +1543,7 @@
         "transc": "[sʌn]",
         "transl": "сын",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1380,7 +1552,8 @@
         "transc": "[ˈdɔːtə]",
         "transl": "дочь",
         "learn": null,
-        "know": true,
+        "rd": null,
+        "know": null,
         "tags": []
     },
     "174": {
@@ -1388,6 +1561,7 @@
         "transc": "[ˈbeɪbi]",
         "transl": "маленький ребенок",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1396,6 +1570,7 @@
         "transc": "[ˈʧɪldrən], [kɪdz]",
         "transl": "дети",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1404,6 +1579,7 @@
         "transc": "[ˈtiːnˌeɪʤə]",
         "transl": "подросток",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1412,6 +1588,7 @@
         "transc": "[ɑːnt]",
         "transl": "тетя",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1420,6 +1597,7 @@
         "transc": "[ˈʌŋkl]",
         "transl": "дядя",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1428,6 +1606,7 @@
         "transc": "[niːs]",
         "transl": "племянница",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1436,6 +1615,7 @@
         "transc": "[ˈnɛvju(ː)] [ˈnɛfju(ː)]",
         "transl": "племянник",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1444,6 +1624,7 @@
         "transc": "[ˈgɜːlˌfrɛnd]",
         "transl": "девушка (подруга)",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1452,6 +1633,7 @@
         "transc": "[ˈbɔɪˌfrɛnd]",
         "transl": "парень (бойфренд)",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1460,6 +1642,7 @@
         "transc": "[frɛnd]",
         "transl": "друг",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1467,8 +1650,9 @@
         "word": "relatives",
         "transc": "[ˈrɛlətɪvz]",
         "transl": "родственники",
-        "learn": null,
-        "know": null,
+        "learn": 2,
+        "rd": "2024-08-18",
+        "know": false,
         "tags": []
     },
     "185": {
@@ -1476,6 +1660,7 @@
         "transc": "[ɪnˈgeɪʤmənt]",
         "transl": "помолвка",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1484,6 +1669,7 @@
         "transc": "[ˈmærɪʤ]",
         "transl": "женитьба, замужество, брак",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1492,6 +1678,7 @@
         "transc": "[ˈwɛdɪŋ]",
         "transl": "свадьба",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1500,6 +1687,7 @@
         "transc": "[fɪ'ɑːn(t)seɪ], [braɪd]",
         "transl": "невеста",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1508,6 +1696,7 @@
         "transc": "[fɪ'ɑːn(t)seɪ], [grʊm] [ˈbraɪdgrʊm]",
         "transl": "жених",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1516,6 +1705,7 @@
         "transc": "[ˈfjuːnərəl]",
         "transl": "похороны",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1524,7 +1714,8 @@
         "transc": "[bɜːθ]",
         "transl": "рождение",
         "learn": null,
-        "know": false,
+        "rd": null,
+        "know": null,
         "tags": []
     },
     "192": {
@@ -1532,6 +1723,7 @@
         "transc": "[haʊs]",
         "transl": "дом",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1540,6 +1732,7 @@
         "transc": "[həʊm]",
         "transl": "дом",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1548,6 +1741,7 @@
         "transc": "[əpˈɑːtmənt], [flæt]",
         "transl": "квартира",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1556,6 +1750,7 @@
         "transc": "[ruːf]",
         "transl": "крыша",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1564,6 +1759,7 @@
         "transc": "[ruːm]",
         "transl": "комната",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1572,6 +1768,7 @@
         "transc": "[wɔːl]",
         "transl": "стена",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1580,6 +1777,7 @@
         "transc": "[flɔː]",
         "transl": "пол, этаж",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1588,6 +1786,7 @@
         "transc": "[steəz]",
         "transl": "лестница, ступеньки",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1596,6 +1795,7 @@
         "transc": "[ˈsiːlɪŋ]",
         "transl": "потолок",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1604,6 +1804,7 @@
         "transc": "[ˈwɪndəʊ]",
         "transl": "окно",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1612,6 +1813,7 @@
         "transc": "[dɔː]",
         "transl": "дверь",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1620,6 +1822,7 @@
         "transc": "[ˈdɔːbɛl]",
         "transl": "дверной звонок",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1628,7 +1831,8 @@
         "transc": "[lɒk]",
         "transl": "замок",
         "learn": null,
-        "know": true,
+        "rd": null,
+        "know": null,
         "tags": []
     },
     "205": {
@@ -1636,6 +1840,7 @@
         "transc": "[kiː]",
         "transl": "ключ",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1644,6 +1849,7 @@
         "transc": "[ˈfɜːnɪʧə]",
         "transl": "мебель",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1652,6 +1858,7 @@
         "transc": "[θɪŋ]",
         "transl": "вещь, предмет",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1660,6 +1867,7 @@
         "transc": "[læmp]",
         "transl": "лампа",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1667,8 +1875,9 @@
         "word": "light bulb",
         "transc": "[laɪt bʌlb]",
         "transl": "лампочка",
-        "learn": null,
-        "know": null,
+        "learn": 2,
+        "rd": "2024-08-18",
+        "know": false,
         "tags": []
     },
     "210": {
@@ -1676,6 +1885,7 @@
         "transc": "[ˈteɪbl]",
         "transl": "стол",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1684,6 +1894,7 @@
         "transc": "[dɛsk]",
         "transl": "письменный стол",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1692,6 +1903,7 @@
         "transc": "[ʧeə]",
         "transl": "стул",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1700,6 +1912,7 @@
         "transc": "[ˈɑːmˈʧeə]",
         "transl": "кресло",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1708,6 +1921,7 @@
         "transc": "[ˈsəʊfə] [kəʊʧ]",
         "transl": "диван",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1716,6 +1930,7 @@
         "transc": "[stəʊv]",
         "transl": "кухонная плита",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1724,6 +1939,7 @@
         "transc": "[ˈvækjʊəm ˈkliːnə]",
         "transl": "пылесос",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1732,6 +1948,7 @@
         "transc": "[ˈmaɪkrəʊweɪv]",
         "transl": "микроволновая печь",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1740,6 +1957,7 @@
         "transc": "[eə kənˈdɪʃənə] [eɪ-siː]",
         "transl": "кондиционер",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1748,6 +1966,7 @@
         "transc": "[tæp], [ˈfɔːsɪt]",
         "transl": "водопроводный кран",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1756,6 +1975,7 @@
         "transc": "[ˈʃaʊə]",
         "transl": "душ",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1764,6 +1984,7 @@
         "transc": "[ˈwɒʃɪŋ] [məˈʃiːn]",
         "transl": "стиральная машина",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1772,6 +1993,7 @@
         "transc": "[səʊp]",
         "transl": "мыло",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1780,6 +2002,7 @@
         "transc": "[ʃæmˈpuː]",
         "transl": "шампунь",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1788,6 +2011,7 @@
         "transc": "[ˈtɔɪlɪtriz]",
         "transl": "туалетные принадлежности (мыло, шампунь и проч.)",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1796,6 +2020,7 @@
         "transc": "[ˈbɑːθru(ː)m]",
         "transl": "ванная комната \\ туалет",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1804,6 +2029,7 @@
         "transc": "[ˈmɪrə]",
         "transl": "зеркало",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1812,6 +2038,7 @@
         "transc": "[hɔːl]",
         "transl": "зал, холл",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1820,6 +2047,7 @@
         "transc": "[hɔːl] [ˈhɔːlweɪ]",
         "transl": "коридор, прихожая",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1828,6 +2056,7 @@
         "transc": "[ˈlɪvɪŋ ruːm]",
         "transl": "гостиная",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1836,6 +2065,7 @@
         "transc": "[ˈkɪʧɪn]",
         "transl": "кухня",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1844,7 +2074,8 @@
         "transc": "[ˈbɛdru(ː)m]",
         "transl": "спальня",
         "learn": null,
-        "know": true,
+        "rd": null,
+        "know": null,
         "tags": []
     },
     "232": {
@@ -1852,6 +2083,7 @@
         "transc": "[ˈneɪbə]",
         "transl": "сосед",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1860,6 +2092,7 @@
         "transc": "[ˈwɔːdrəʊb]",
         "transl": "шкаф для одежды",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1868,6 +2101,7 @@
         "transc": "[ˈkʌbəd]",
         "transl": "шкаф, буфет",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1876,6 +2110,7 @@
         "transc": "[ˈklɒzɪt]",
         "transl": "шкаф, кладовка",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1884,6 +2119,7 @@
         "transc": "[ˈdɪʃɪz]",
         "transl": "тарелки, посуда",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1892,6 +2128,7 @@
         "transc": "[kʌp]",
         "transl": "чашка",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1900,6 +2137,7 @@
         "transc": "[fɔːk]",
         "transl": "вилка",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1908,6 +2146,7 @@
         "transc": "[spuːn]",
         "transl": "ложка",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1916,6 +2155,7 @@
         "transc": "[pleɪt]",
         "transl": "тарелка",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1924,7 +2164,8 @@
         "transc": "[naɪf]",
         "transl": "нож",
         "learn": null,
-        "know": false,
+        "rd": null,
+        "know": null,
         "tags": []
     },
     "242": {
@@ -1932,7 +2173,8 @@
         "transc": "[tuːlz]",
         "transl": "инструменты",
         "learn": null,
-        "know": true,
+        "rd": null,
+        "know": null,
         "tags": []
     },
     "243": {
@@ -1940,6 +2182,7 @@
         "transc": "[ˌtiːˈviː]",
         "transl": "телевизор",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1948,6 +2191,7 @@
         "transc": "[rɪˈməʊt kənˈtrəʊl]",
         "transl": "пульт управления",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1956,6 +2200,7 @@
         "transc": "[kəmˈpjuːtə]",
         "transl": "компьютер",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1964,6 +2209,7 @@
         "transc": "[ˈlæpˌtɒp]",
         "transl": "ноутбук",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1972,6 +2218,7 @@
         "transc": "[fəʊn]",
         "transl": "телефон",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1980,6 +2227,7 @@
         "transc": "[bɛd]",
         "transl": "кровать",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1988,6 +2236,7 @@
         "transc": "[ˈblæŋkɪt]",
         "transl": "одеяло",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -1996,7 +2245,8 @@
         "transc": "[ˈpɪləʊ]",
         "transl": "подушка",
         "learn": null,
-        "know": false,
+        "rd": null,
+        "know": null,
         "tags": []
     },
     "251": {
@@ -2004,6 +2254,7 @@
         "transc": "[ˈpɪləʊkeɪs]",
         "transl": "наволочка",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2012,6 +2263,7 @@
         "transc": "[ʃiːt]",
         "transl": "простыня",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2020,6 +2272,7 @@
         "transc": "[ˈlɪnɪnz]",
         "transl": "постельное белье",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2028,7 +2281,8 @@
         "transc": "[ˈtaʊəl]",
         "transl": "полотенце",
         "learn": null,
-        "know": false,
+        "rd": null,
+        "know": null,
         "tags": []
     },
     "255": {
@@ -2036,6 +2290,7 @@
         "transc": "[ˈmuːvi] [fɪlm]",
         "transl": "фильм",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2044,6 +2299,7 @@
         "transc": "[bʊk]",
         "transl": "книга",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2052,6 +2308,7 @@
         "transc": "[ˈkæmərə]",
         "transl": "фотоаппарат, видеокамера",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2060,6 +2317,7 @@
         "transc": "[ˈnjuːzˌpeɪpə]",
         "transl": "газета",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2067,8 +2325,9 @@
         "word": "magazine",
         "transc": "[ˌmægəˈziːn]",
         "transl": "журнал",
-        "learn": null,
-        "know": null,
+        "learn": 2,
+        "rd": "2024-08-16",
+        "know": false,
         "tags": []
     },
     "260": {
@@ -2076,6 +2335,7 @@
         "transc": "[kləʊðz]",
         "transl": "одежда",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2084,6 +2344,7 @@
         "transc": "[ʃɜːt]",
         "transl": "рубашка",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2092,6 +2353,7 @@
         "transc": "[pænts] [ˈtraʊzəz]",
         "transl": "брюки",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2100,6 +2362,7 @@
         "transc": "[ˈʤækɪt]",
         "transl": "пиджак",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2108,6 +2371,7 @@
         "transc": "[ˈswɛtə] [ˈʤʌmpə]",
         "transl": "свитер, джемпер",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2116,6 +2380,7 @@
         "transc": "[hæt]",
         "transl": "шляпа",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2124,6 +2389,7 @@
         "transc": "[ˈkæp]",
         "transl": "кепка",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2132,6 +2398,7 @@
         "transc": "[ˈpɒkɪt]",
         "transl": "карман",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2140,6 +2407,7 @@
         "transc": "[ʃɔːts]",
         "transl": "шорты",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2148,6 +2416,7 @@
         "transc": "[ʃuːz]",
         "transl": "туфли",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2156,6 +2425,7 @@
         "transc": "[drɛs]",
         "transl": "платье",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2164,6 +2434,7 @@
         "transc": "[skɜːt]",
         "transl": "юбка",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2172,6 +2443,7 @@
         "transc": "[ʤiːnz]",
         "transl": "джинсы",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2180,6 +2452,7 @@
         "transc": "[ˈʌndəweə]",
         "transl": "нижнее белье",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2188,6 +2461,7 @@
         "transc": "[sɒks]",
         "transl": "носки",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2196,6 +2470,7 @@
         "transc": "[bæg]",
         "transl": "сумка",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2204,6 +2479,7 @@
         "transc": "[pɜːs]",
         "transl": "дамская сумочка, кошелек",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2212,6 +2488,7 @@
         "transc": "[kəʊt]",
         "transl": "пальто",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2220,6 +2497,7 @@
         "transc": "[skɑːf]",
         "transl": "шарф",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2228,6 +2506,7 @@
         "transc": "[glʌvz]",
         "transl": "перчатки",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2236,6 +2515,7 @@
         "transc": "[ˈwɒlɪt]",
         "transl": "бумажник",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2244,7 +2524,8 @@
         "transc": "[ˈjuːnɪfɔːm]",
         "transl": "униформа",
         "learn": null,
-        "know": true,
+        "rd": null,
+        "know": null,
         "tags": []
     },
     "282": {
@@ -2252,6 +2533,7 @@
         "transc": "[bɛlt]",
         "transl": "ремень",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2260,6 +2542,7 @@
         "transc": "[ˈbʌtn]",
         "transl": "кнопка, пуговица",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2268,6 +2551,7 @@
         "transc": "[zɪp]",
         "transl": "застежка молния",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2276,6 +2560,7 @@
         "transc": "[ˈneɪʧə]",
         "transl": "природа",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2284,6 +2569,7 @@
         "transc": "[nɔːθ]",
         "transl": "север",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2292,6 +2578,7 @@
         "transc": "[saʊθ]",
         "transl": "юг",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2300,6 +2587,7 @@
         "transc": "[wɛst]",
         "transl": "запад",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2308,6 +2596,7 @@
         "transc": "[iːst]",
         "transl": "восток",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2316,6 +2605,7 @@
         "transc": "[sʌn]",
         "transl": "солнце",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2324,6 +2614,7 @@
         "transc": "[muːn]",
         "transl": "луна",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2332,6 +2623,7 @@
         "transc": "[stɑː]",
         "transl": "звезда",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2340,7 +2632,8 @@
         "transc": "[skaɪ]",
         "transl": "небо",
         "learn": null,
-        "know": true,
+        "rd": null,
+        "know": null,
         "tags": []
     },
     "294": {
@@ -2348,6 +2641,7 @@
         "transc": "[ɜːθ]",
         "transl": "Земля",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2356,7 +2650,8 @@
         "transc": "[graʊnd]",
         "transl": "земля",
         "learn": null,
-        "know": true,
+        "rd": null,
+        "know": null,
         "tags": []
     },
     "296": {
@@ -2364,6 +2659,7 @@
         "transc": "[speɪs]",
         "transl": "космос, пространство",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2372,6 +2668,7 @@
         "transc": "[eə]",
         "transl": "воздух",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2380,7 +2677,8 @@
         "transc": "[plɑːnt]",
         "transl": "растение",
         "learn": null,
-        "know": true,
+        "rd": null,
+        "know": null,
         "tags": []
     },
     "299": {
@@ -2388,7 +2686,8 @@
         "transc": "[triː]",
         "transl": "дерево",
         "learn": null,
-        "know": true,
+        "rd": null,
+        "know": null,
         "tags": []
     },
     "300": {
@@ -2396,6 +2695,7 @@
         "transc": "[ˈflaʊə]",
         "transl": "цветок",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2404,6 +2704,7 @@
         "transc": "[dəʊˈmɛstɪk ˈænɪməl]",
         "transl": "домашнее животное",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2412,7 +2713,8 @@
         "transc": "[waɪld ˈænɪməl]",
         "transl": "дикое животное",
         "learn": null,
-        "know": false,
+        "rd": null,
+        "know": null,
         "tags": []
     },
     "303": {
@@ -2420,6 +2722,7 @@
         "transc": "[bɜːd]",
         "transl": "птица",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2428,6 +2731,7 @@
         "transc": "[ˈpəʊltri]",
         "transl": "домашняя птица",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2436,6 +2740,7 @@
         "transc": "[pɛt]",
         "transl": "домашнее животное (питомец)",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2444,7 +2749,8 @@
         "transc": "[kæt]",
         "transl": "кошка",
         "learn": null,
-        "know": true,
+        "rd": null,
+        "know": null,
         "tags": []
     },
     "307": {
@@ -2452,6 +2758,7 @@
         "transc": "[dɒg]",
         "transl": "собака",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2460,6 +2767,7 @@
         "transc": "[hɔːs]",
         "transl": "лошадь",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2468,6 +2776,7 @@
         "transc": "[ˈʧɪkɪn]",
         "transl": "цыпленок, курица",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2476,6 +2785,7 @@
         "transc": "[maʊs]",
         "transl": "мышь",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2484,6 +2794,7 @@
         "transc": "[siː]",
         "transl": "море",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2492,6 +2803,7 @@
         "transc": "[ˈsiːʃɔː] [bæŋk]",
         "transl": "берег",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2500,6 +2812,7 @@
         "transc": "[ˈrɪvə]",
         "transl": "река",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2508,6 +2821,7 @@
         "transc": "[snəʊ]",
         "transl": "снег",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2516,6 +2830,7 @@
         "transc": "[sænd]",
         "transl": "песок",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2524,6 +2839,7 @@
         "transc": "[reɪn]",
         "transl": "дождь",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2532,6 +2848,7 @@
         "transc": "[kəʊld]",
         "transl": "холод",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2540,6 +2857,7 @@
         "transc": "[hiːt]",
         "transl": "жара",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2548,6 +2866,7 @@
         "transc": "[ˈfaɪə]",
         "transl": "огонь, пожар",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2556,6 +2875,7 @@
         "transc": "[ˈwɔːtə]",
         "transl": "вода",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2564,6 +2884,7 @@
         "transc": "[wɪnd]",
         "transl": "ветер",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2572,7 +2893,8 @@
         "transc": "[stɔːm]",
         "transl": "буря",
         "learn": null,
-        "know": true,
+        "rd": null,
+        "know": null,
         "tags": []
     },
     "323": {
@@ -2580,6 +2902,7 @@
         "transc": "[ˈwɛðə]",
         "transl": "погода",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2588,6 +2911,7 @@
         "transc": "[ˈwɛðə ˈfɔːkɑːst]",
         "transl": "прогноз погоды",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2596,6 +2920,7 @@
         "transc": "[ˈsɪti] [taʊn]",
         "transl": "город",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2604,6 +2929,7 @@
         "transc": "[ˈbɪldɪŋ]",
         "transl": "здание",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2612,6 +2938,7 @@
         "transc": "[striːt]",
         "transl": "улица",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2620,6 +2947,7 @@
         "transc": "[blɒk]",
         "transl": "квартал",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2628,6 +2956,7 @@
         "transc": "[ˈtræfɪk laɪts]",
         "transl": "светофор",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2636,6 +2965,7 @@
         "transc": "[ˌɪntə(ː)ˈsɛkʃən]",
         "transl": "перекресток",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2644,6 +2974,7 @@
         "transc": "[ˈkrɒswɔːk]",
         "transl": "пешеходный переход",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2652,6 +2983,7 @@
         "transc": "[rəʊd saɪn]",
         "transl": "дорожный знак",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2660,6 +2992,7 @@
         "transc": "[kɑː]",
         "transl": "автомобиль",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2668,6 +3001,7 @@
         "transc": "[ˈpʌblɪk ˈtrænspɔːt]",
         "transl": "общественный транспорт",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2676,6 +3010,7 @@
         "transc": "[ˈeəpɔːt]",
         "transl": "аэропорт",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2684,6 +3019,7 @@
         "transc": "[ˈreɪlweɪ (ˈreɪlrəʊd) ˈsteɪʃən]",
         "transl": "вокзал",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2692,6 +3028,7 @@
         "transc": "[pɔːt]",
         "transl": "порт",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2699,8 +3036,9 @@
         "word": "bus station (bus terminal)",
         "transc": "[bʌs ˈsteɪʃən] [bʌs ˈtɜːmɪnl]",
         "transl": "автобусная станция",
-        "learn": null,
-        "know": null,
+        "learn": 1,
+        "rd": "2024-08-17",
+        "know": false,
         "tags": []
     },
     "339": {
@@ -2708,6 +3046,7 @@
         "transc": "[ˈtæksi]",
         "transl": "такси",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2716,6 +3055,7 @@
         "transc": "[brɪʤ]",
         "transl": "мост",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2724,6 +3064,7 @@
         "transc": "[ʃɒp]",
         "transl": "магазин",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2731,8 +3072,9 @@
         "word": "mall",
         "transc": "[mɔːl]",
         "transl": "торговый центр",
-        "learn": null,
-        "know": null,
+        "learn": 1,
+        "rd": "2024-08-17",
+        "know": false,
         "tags": []
     },
     "343": {
@@ -2740,6 +3082,7 @@
         "transc": "[ˈsɪnəmə]",
         "transl": "кинотеатр",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2748,6 +3091,7 @@
         "transc": "[ˈθɪətə]",
         "transl": "театр",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2756,6 +3100,7 @@
         "transc": "[pəˈliːs dˈepətmənt]",
         "transl": "полицейский участок",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2764,7 +3109,8 @@
         "transc": "[ˈhɒspɪtl]",
         "transl": "больница",
         "learn": null,
-        "know": true,
+        "rd": null,
+        "know": null,
         "tags": []
     },
     "347": {
@@ -2772,6 +3118,7 @@
         "transc": "[həʊˈtɛl]",
         "transl": "гостиница",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2780,6 +3127,7 @@
         "transc": "[pəʊst ˈɒfɪs]",
         "transl": "почта",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2788,6 +3136,7 @@
         "transc": "[ˌwaɪ'faɪ]",
         "transl": "вай-фай",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2796,6 +3145,7 @@
         "transc": "[ˈɛmbəsi]",
         "transl": "посольство",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2804,6 +3154,7 @@
         "transc": "[æmˈbæsədə]",
         "transl": "посол",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2812,6 +3163,7 @@
         "transc": "[ˈpɑːsə baɪ]",
         "transl": "прохожий",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2820,6 +3172,7 @@
         "transc": "[pɪˈdɛstrɪən]",
         "transl": "пешеход",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2828,6 +3181,7 @@
         "transc": "[pəˈliːs ˈɒfɪsə]",
         "transl": "полицейский",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2836,6 +3190,7 @@
         "transc": "[ɪˈmɜːʤənsi]",
         "transl": "чрезвычайная ситуация",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2844,6 +3199,7 @@
         "transc": "[mæp]",
         "transl": "карта",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2852,6 +3208,7 @@
         "transc": "[ˈsʌbweɪ]",
         "transl": "метро",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2860,6 +3217,7 @@
         "transc": "[ˈsteɪʃən]",
         "transl": "станция",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2868,6 +3226,7 @@
         "transc": "[stɒp]",
         "transl": "остановка",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2876,6 +3235,7 @@
         "transc": "[ˈsaɪtˌsiːɪŋ]",
         "transl": "осмотр достопримечательностей",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2884,6 +3244,7 @@
         "transc": "[wɜːk]",
         "transl": "работа",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2892,6 +3253,7 @@
         "transc": "[ʤɒb]",
         "transl": "работа",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2900,6 +3262,7 @@
         "transc": "[ˈɒfɪs]",
         "transl": "офис",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2908,6 +3271,7 @@
         "transc": "[ˈwɜːkˌpleɪs]",
         "transl": "рабочее место",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2916,6 +3280,7 @@
         "transc": "[ˈwɜːkɪŋ ˈaʊəz]",
         "transl": "рабочие часы",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2924,6 +3289,7 @@
         "transc": "[ˈʃɛdjuːl]",
         "transl": "расписание, график",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2932,6 +3298,7 @@
         "transc": "[ˈkɒliːg]",
         "transl": "коллега",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2940,6 +3307,7 @@
         "transc": "[siː-viː] [ˈrɛzju(ː)meɪ]",
         "transl": "резюме",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2948,7 +3316,8 @@
         "transc": "[ˈpeɪdeɪ]",
         "transl": "день зарплаты",
         "learn": null,
-        "know": false,
+        "rd": null,
+        "know": null,
         "tags": []
     },
     "370": {
@@ -2956,6 +3325,7 @@
         "transc": "[ˈpeɪˌʧɛk]",
         "transl": "зарплатный чек",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2964,6 +3334,7 @@
         "transc": "[ˈsæləri]",
         "transl": "зарплата",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2972,6 +3343,7 @@
         "transc": "[ˈdjuːtiz]",
         "transl": "обязанности",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2980,6 +3352,7 @@
         "transc": "[ɪmˈplɔɪə]",
         "transl": "работодатель",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2988,6 +3361,7 @@
         "transc": "[ˌɛmplɔɪˈiː]",
         "transl": "работник",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -2996,6 +3370,7 @@
         "transc": "[ˈsəʊʃəl sɪˈkjʊərɪti]",
         "transl": "социальное страхование",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3004,6 +3379,7 @@
         "transc": "[ʤɒb ˈɪntəvjuː]",
         "transl": "собеседование на работу",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3012,6 +3388,7 @@
         "transc": "[hɛlθ]",
         "transl": "здоровье",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3020,6 +3397,7 @@
         "transc": "[ˈmʌni]",
         "transl": "деньги",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3028,6 +3406,7 @@
         "transc": "[kæʃ]",
         "transl": "наличные",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3036,7 +3415,8 @@
         "transc": "[bɪl]",
         "transl": "купюра",
         "learn": null,
-        "know": false,
+        "rd": null,
+        "know": null,
         "tags": []
     },
     "381": {
@@ -3044,6 +3424,7 @@
         "transc": "[kɔɪn]",
         "transl": "монета",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3052,6 +3433,7 @@
         "transc": "[ʧeɪnʤ]",
         "transl": "сдача, мелочь",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3060,6 +3442,7 @@
         "transc": "[ˈpeɪmənt]",
         "transl": "платеж",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3068,6 +3451,7 @@
         "transc": "[ʧɛk]",
         "transl": "чек",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3076,6 +3460,7 @@
         "transc": "[bæŋk]",
         "transl": "банк",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3084,6 +3469,7 @@
         "transc": "[eɪ-tiː-ɛm] [ˈɔːtəmeɪtɪd ˈtɛlə məˈʃiːn]",
         "transl": "банкомат",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3092,6 +3478,7 @@
         "transc": "[bæŋk kɑːd]",
         "transl": "банковская карта",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3100,6 +3487,7 @@
         "transc": "[tɪps]",
         "transl": "чаевые",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3108,6 +3496,7 @@
         "transc": "[rɪˈsiːt]",
         "transl": "чек",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3116,6 +3505,7 @@
         "transc": "[ˈmʌni ˈtrænsfə(ː)]",
         "transl": "денежный перевод",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3124,7 +3514,8 @@
         "transc": "[faɪn]",
         "transl": "штраф",
         "learn": null,
-        "know": false,
+        "rd": null,
+        "know": null,
         "tags": []
     },
     "392": {
@@ -3132,6 +3523,7 @@
         "transc": "[ˈbʌʤɪt]",
         "transl": "бюджет",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3140,6 +3532,7 @@
         "transc": "[fuːd]",
         "transl": "еда",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3148,6 +3541,7 @@
         "transc": "[ˈbrɛkfəst]",
         "transl": "завтрак",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3156,6 +3550,7 @@
         "transc": "[ˈdɪnə]",
         "transl": "обед",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3164,6 +3559,7 @@
         "transc": "[lʌnʧ]",
         "transl": "ланч",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3172,6 +3568,7 @@
         "transc": "[ˈsʌpə]",
         "transl": "ужин",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3180,6 +3577,7 @@
         "transc": "[miːl]",
         "transl": "блюдо, прием пищи",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3188,6 +3586,7 @@
         "transc": "[drɪŋk], [ˈbɛvərɪʤ]",
         "transl": "напиток",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3196,7 +3595,8 @@
         "transc": "[ˈælkəhɒl]",
         "transl": "алкоголь",
         "learn": null,
-        "know": true,
+        "rd": null,
+        "know": null,
         "tags": []
     },
     "401": {
@@ -3204,6 +3604,7 @@
         "transc": "[ˈwɔːtə]",
         "transl": "вода",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3212,6 +3613,7 @@
         "transc": "[ˈkɒfi]",
         "transl": "кофе",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3220,6 +3622,7 @@
         "transc": "[tiː]",
         "transl": "чай",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3228,6 +3631,7 @@
         "transc": "[waɪn]",
         "transl": "вино",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3236,6 +3640,7 @@
         "transc": "[ʤuːs]",
         "transl": "сок",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3244,6 +3649,7 @@
         "transc": "[miːt]",
         "transl": "мясо",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3252,6 +3658,7 @@
         "transc": "[ˈsɪərɪəl]",
         "transl": "хлопья",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3260,6 +3667,7 @@
         "transc": "[brɛd]",
         "transl": "хлеб",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3268,6 +3676,7 @@
         "transc": "[ˈvɛʤɪtəblz]",
         "transl": "овощи",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3276,6 +3685,7 @@
         "transc": "[fruːt]",
         "transl": "фрукты",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3284,6 +3694,7 @@
         "transc": "[fɪʃ]",
         "transl": "рыба",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3292,6 +3703,7 @@
         "transc": "[ɔɪl]",
         "transl": "растительное масло",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3300,7 +3712,8 @@
         "transc": "[ˈbʌtə]",
         "transl": "сливочное масло",
         "learn": null,
-        "know": true,
+        "rd": null,
+        "know": null,
         "tags": []
     },
     "414": {
@@ -3308,6 +3721,7 @@
         "transc": "[snæk]",
         "transl": "снэк, закуска",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3316,6 +3730,7 @@
         "transc": "[ˈkændi]",
         "transl": "конфета (леденец)",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3324,7 +3739,8 @@
         "transc": "[ˈpeɪstri]",
         "transl": "выпечка",
         "learn": null,
-        "know": false,
+        "rd": null,
+        "know": null,
         "tags": []
     },
     "417": {
@@ -3332,6 +3748,7 @@
         "transc": "[ˈdaɪət]",
         "transl": "диета",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3340,6 +3757,7 @@
         "transc": "[frɪʤ], [rɪˈfrɪʤəreɪtə]",
         "transl": "холодильник",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3348,6 +3766,7 @@
         "transc": "[fɔːk]",
         "transl": "вилка",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3356,6 +3775,7 @@
         "transc": "[spuːn]",
         "transl": "ложка",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3364,6 +3784,7 @@
         "transc": "[glɑːs]",
         "transl": "стакан",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3372,6 +3793,7 @@
         "transc": "[kʌp]",
         "transl": "чашка",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3380,7 +3802,8 @@
         "transc": "[mʌg]",
         "transl": "кружка",
         "learn": null,
-        "know": false,
+        "rd": null,
+        "know": null,
         "tags": []
     },
     "424": {
@@ -3388,6 +3811,7 @@
         "transc": "[pleɪt], [dɪʃ]",
         "transl": "тарелка",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3396,6 +3820,7 @@
         "transc": "[ˈstʌdi]",
         "transl": "изучение, исследование",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3404,6 +3829,7 @@
         "transc": "[skuːl]",
         "transl": "школа",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3412,7 +3838,8 @@
         "transc": "[ˈkɒlɪʤ]",
         "transl": "колледж",
         "learn": null,
-        "know": true,
+        "rd": null,
+        "know": null,
         "tags": []
     },
     "428": {
@@ -3420,6 +3847,7 @@
         "transc": "[ˌjuːnɪˈvɜːsɪti]",
         "transl": "университет",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3428,6 +3856,7 @@
         "transc": "[ˌɛdju(ː)ˈkeɪʃən]",
         "transl": "образование",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3436,6 +3865,7 @@
         "transc": "[dɪ'griː]",
         "transl": "ученая степень",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3444,6 +3874,7 @@
         "transc": "[ˈgrædjʊət]",
         "transl": "выпускник",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3452,6 +3883,7 @@
         "transc": "[dɪˈpləʊmə]",
         "transl": "диплом",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3460,6 +3892,7 @@
         "transc": "[ˈtɛkstbʊk]",
         "transl": "учебник",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3468,6 +3901,7 @@
         "transc": "[ˈnəʊtbʊk]",
         "transl": "тетрадь",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3476,6 +3910,7 @@
         "transc": "[ˈnəʊtˌpæd]",
         "transl": "блокнот",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3484,7 +3919,8 @@
         "transc": "[pɛn]",
         "transl": "авторучка",
         "learn": null,
-        "know": true,
+        "rd": null,
+        "know": null,
         "tags": []
     },
     "437": {
@@ -3492,6 +3928,7 @@
         "transc": "[ˈpɛnsl]",
         "transl": "карандаш",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3500,6 +3937,7 @@
         "transc": "[ˈblækbɔːd]",
         "transl": "школьная доска",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3508,6 +3946,7 @@
         "transc": "[ˈwaɪtbɔːd]",
         "transl": "маркерная доска",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3516,6 +3955,7 @@
         "transc": "[ˈklɑːsrʊm]",
         "transl": "класс (помещение)",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3524,6 +3964,7 @@
         "transc": "[klɑːs], [ˈlɛsn]",
         "transl": "урок",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3532,6 +3973,7 @@
         "transc": "[greɪd]",
         "transl": "класс (этап обучения)",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3540,6 +3982,7 @@
         "transc": "[mɑːk], [greɪd]",
         "transl": "оценка",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3548,7 +3991,8 @@
         "transc": "[ˈpjuːpl]",
         "transl": "ученик",
         "learn": null,
-        "know": true,
+        "rd": null,
+        "know": null,
         "tags": []
     },
     "445": {
@@ -3556,6 +4000,7 @@
         "transc": "[ˈstjuːdənt]",
         "transl": "студент, ученик",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3564,6 +4009,7 @@
         "transc": "[ˈtiːʧə]",
         "transl": "учитель",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3572,6 +4018,7 @@
         "transc": "[ɪgˈzæm] [ɪgˌzæmɪˈneɪʃən]",
         "transl": "экзамен",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3580,7 +4027,8 @@
         "transc": "[tɛst]",
         "transl": "тест",
         "learn": null,
-        "know": true,
+        "rd": null,
+        "know": null,
         "tags": []
     },
     "449": {
@@ -3588,6 +4036,7 @@
         "transc": "[ˈkʌlə]",
         "transl": "цвет",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3596,6 +4045,7 @@
         "transc": "[blæk]",
         "transl": "черный",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3604,6 +4054,7 @@
         "transc": "[waɪt]",
         "transl": "белый",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3612,6 +4063,7 @@
         "transc": "[dɑːk]",
         "transl": "темный",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3620,6 +4072,7 @@
         "transc": "[laɪt]",
         "transl": "светлый",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3628,6 +4081,7 @@
         "transc": "[rɛd]",
         "transl": "красный",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3636,6 +4090,7 @@
         "transc": "[ˈɒrɪnʤ]",
         "transl": "оранжевый",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3644,6 +4099,7 @@
         "transc": "[ˈjɛləʊ]",
         "transl": "желтый",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3652,6 +4108,7 @@
         "transc": "[griːn]",
         "transl": "зеленый",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3660,6 +4117,7 @@
         "transc": "[bluː]",
         "transl": "голубой, синий",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3668,6 +4126,7 @@
         "transc": "[ˈpɜːpl]",
         "transl": "фиолетовый (пурпурный)",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3676,6 +4135,7 @@
         "transc": "[ˈvaɪəlɪt]",
         "transl": "темно-фиолетовый",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3684,6 +4144,7 @@
         "transc": "[pɪŋk]",
         "transl": "розовый",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3692,6 +4153,7 @@
         "transc": "[ˈsɪlvə]",
         "transl": "серебристый",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3700,6 +4162,7 @@
         "transc": "[gəʊld]",
         "transl": "золотой",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3708,6 +4171,7 @@
         "transc": "[braʊn]",
         "transl": "коричневый",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3716,6 +4180,7 @@
         "transc": "[greɪ]",
         "transl": "серый",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3724,6 +4189,7 @@
         "transc": "[bɪg]",
         "transl": "большой",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3732,6 +4198,7 @@
         "transc": "[lɑːʤ], [greɪt], [hjuːʤ], [ɪˈnɔːməs]",
         "transl": "большой, огромный",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3740,6 +4207,7 @@
         "transc": "[smɔːl]",
         "transl": "маленький",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3748,6 +4216,7 @@
         "transc": "[ˈlɪtl]",
         "transl": "маленький",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3756,6 +4225,7 @@
         "transc": "[ˈtaɪni]",
         "transl": "крошечный",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3764,6 +4234,7 @@
         "transc": "[lɒŋ]",
         "transl": "длинный, долгий",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3772,6 +4243,7 @@
         "transc": "[tɔːl]",
         "transl": "высокий",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3780,7 +4252,8 @@
         "transc": "[haɪ]",
         "transl": "высокий",
         "learn": null,
-        "know": false,
+        "rd": null,
+        "know": null,
         "tags": []
     },
     "474": {
@@ -3788,7 +4261,8 @@
         "transc": "[ʃɔːt]",
         "transl": "короткий",
         "learn": null,
-        "know": true,
+        "rd": null,
+        "know": null,
         "tags": []
     },
     "475": {
@@ -3796,6 +4270,7 @@
         "transc": "[θɪn]",
         "transl": "тонкий",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3804,6 +4279,7 @@
         "transc": "[θɪk]",
         "transl": "толстый",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3812,7 +4288,8 @@
         "transc": "[waɪd] [brɔːd]",
         "transl": "широкий",
         "learn": null,
-        "know": false,
+        "rd": null,
+        "know": null,
         "tags": []
     },
     "478": {
@@ -3820,6 +4297,7 @@
         "transc": "[ˈnærəʊ]",
         "transl": "узкий",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3828,6 +4306,7 @@
         "transc": "[ˈhɛvi]",
         "transl": "тяжелый (о весе)",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3836,6 +4315,7 @@
         "transc": "[laɪt], [ˈlaɪtweɪt]",
         "transl": "легкий (о весе)",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3844,6 +4324,7 @@
         "transc": "[gʊd]",
         "transl": "хороший",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3852,7 +4333,8 @@
         "transc": "[bæd]",
         "transl": "плохой",
         "learn": null,
-        "know": true,
+        "rd": null,
+        "know": null,
         "tags": []
     },
     "483": {
@@ -3860,6 +4342,7 @@
         "transc": "[ʧiːp]",
         "transl": "дешевый",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3868,6 +4351,7 @@
         "transc": "[ɪksˈpɛnsɪv]",
         "transl": "дорогой (о цене)",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3876,6 +4360,7 @@
         "transc": "[kənˈviːnjənt], [ˈhændi], [ˈkʌmfətəbl]",
         "transl": "удобный",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3884,6 +4369,7 @@
         "transc": "[ˈteɪsti]",
         "transl": "вкусный",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3892,6 +4378,7 @@
         "transc": "[swiːt]",
         "transl": "сладкий",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3900,6 +4387,7 @@
         "transc": "[ˈsɔːlti]",
         "transl": "соленый",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3908,6 +4396,7 @@
         "transc": "[ˈbɪtə]",
         "transl": "горький",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3916,7 +4405,8 @@
         "transc": "[ˈsaʊə]",
         "transl": "кислый",
         "learn": null,
-        "know": false,
+        "rd": null,
+        "know": null,
         "tags": []
     },
     "491": {
@@ -3924,6 +4414,7 @@
         "transc": "[hɒt]",
         "transl": "горячий, острый (о вкусе)",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3932,7 +4423,8 @@
         "transc": "[kəʊld]",
         "transl": "холодный",
         "learn": null,
-        "know": true,
+        "rd": null,
+        "know": null,
         "tags": []
     },
     "493": {
@@ -3940,6 +4432,7 @@
         "transc": "[kuːl]",
         "transl": "прохладный",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3948,6 +4441,7 @@
         "transc": "[dɪstgˈʌstɪŋ]",
         "transl": "мерзкий (о вкусе)",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3956,6 +4450,7 @@
         "transc": "[ˈʌgli]",
         "transl": "отвратительный (о внешности)",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3964,6 +4459,7 @@
         "transc": "[ˈbjuːtəfʊl]",
         "transl": "красивый",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3972,6 +4468,7 @@
         "transc": "[ˈskeəri]",
         "transl": "страшный",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3980,6 +4477,7 @@
         "transc": "[ˈfʌni]",
         "transl": "смешной",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3988,6 +4486,7 @@
         "transc": "[ˈɪntrɪstɪŋ]",
         "transl": "интересный",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -3996,6 +4495,7 @@
         "transc": "[ˈbɔːrɪŋ]",
         "transl": "скучный",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4004,6 +4504,7 @@
         "transc": "[truː]",
         "transl": "правдивый, истинный",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4012,6 +4513,7 @@
         "transc": "[fɔːls]",
         "transl": "ложный",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4020,6 +4522,7 @@
         "transc": "[ˈjuːsfʊl]",
         "transl": "полезный",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4028,7 +4531,8 @@
         "transc": "[ˈjuːslɪs]",
         "transl": "бесполезный",
         "learn": null,
-        "know": false,
+        "rd": null,
+        "know": null,
         "tags": []
     },
     "505": {
@@ -4036,7 +4540,8 @@
         "transc": "[sɒft]",
         "transl": "мягкий",
         "learn": null,
-        "know": true,
+        "rd": null,
+        "know": null,
         "tags": []
     },
     "506": {
@@ -4044,6 +4549,7 @@
         "transc": "[ˈsɒlɪd]",
         "transl": "твердый",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4052,6 +4558,7 @@
         "transc": "[ˈlɪkwɪd]",
         "transl": "жидкий",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4060,6 +4567,7 @@
         "transc": "[hɑːd]",
         "transl": "жесткий",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4068,6 +4576,7 @@
         "transc": "[ˈiːzi], [ˈsɪmpl]",
         "transl": "легкий, простой",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4076,6 +4585,7 @@
         "transc": "[hɑːd], [ˈdɪfɪkəlt]",
         "transl": "трудный, сложный",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4084,6 +4594,7 @@
         "transc": "[jʌŋ]",
         "transl": "молодой",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4092,6 +4603,7 @@
         "transc": "[əʊld]",
         "transl": "старый",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4100,6 +4612,7 @@
         "transc": "[əˈdʌlt]",
         "transl": "взрослый",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4108,6 +4621,7 @@
         "transc": "[ˈleɪzi]",
         "transl": "ленивый",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4116,6 +4630,7 @@
         "transc": "[ˈhɑːdˌwɜːkɪŋ]",
         "transl": "трудолюбивый",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4124,6 +4639,7 @@
         "transc": "[smɑːt]",
         "transl": "умный",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4132,6 +4648,7 @@
         "transc": "[ˈstjuːpɪd]",
         "transl": "глупый",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4140,6 +4657,7 @@
         "transc": "[kaɪnd]",
         "transl": "добрый",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4148,7 +4666,8 @@
         "transc": "[miːn]",
         "transl": "злой, подлый, нехороший",
         "learn": null,
-        "know": false,
+        "rd": null,
+        "know": null,
         "tags": []
     },
     "520": {
@@ -4156,6 +4675,7 @@
         "transc": "[gʊd]",
         "transl": "хороший, добрый",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4164,6 +4684,7 @@
         "transc": "[bæd]",
         "transl": "плохой",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4172,6 +4693,7 @@
         "transc": "[naɪs]",
         "transl": "приятный, милый",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4180,6 +4702,7 @@
         "transc": "[kjuːt]",
         "transl": "милый",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4188,6 +4711,7 @@
         "transc": "[ˌɒptɪˈmɪstɪk]",
         "transl": "оптимистичный",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4196,6 +4720,7 @@
         "transc": "[ˌpɛsɪˈmɪstɪk]",
         "transl": "пессимистичный",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4204,6 +4729,7 @@
         "transc": "[ˈkjʊərɪəs]",
         "transl": "любопытный",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4212,6 +4738,7 @@
         "transc": "[ˈpɒzətɪv]",
         "transl": "позитивный",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4220,6 +4747,7 @@
         "transc": "[krʊəl]",
         "transl": "жестокий",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4228,6 +4756,7 @@
         "transc": "[kɑːm]",
         "transl": "спокойный",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4236,6 +4765,7 @@
         "transc": "[breɪv]",
         "transl": "смелый",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4244,6 +4774,7 @@
         "transc": "[kuːl]",
         "transl": "клевый, крутой, прикольный",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4252,6 +4783,7 @@
         "transc": "[tʌf]",
         "transl": "крутой, сильный",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4260,6 +4792,7 @@
         "transc": "[ˈɒnɪst]",
         "transl": "честный",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4268,6 +4801,7 @@
         "transc": "[ˈhæpi]",
         "transl": "счастливый",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4276,7 +4810,8 @@
         "transc": "[sæd]",
         "transl": "печальный",
         "learn": null,
-        "know": true,
+        "rd": null,
+        "know": null,
         "tags": []
     },
     "536": {
@@ -4284,6 +4819,7 @@
         "transc": "[ˈæŋgri]",
         "transl": "сердитый",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4292,6 +4828,7 @@
         "transc": "[skeəd]",
         "transl": "испуганный",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4300,6 +4837,7 @@
         "transc": "[ˈtaɪəd]",
         "transl": "уставший",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4308,6 +4846,7 @@
         "transc": "[bɔːd]",
         "transl": "скучающий",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4316,6 +4855,7 @@
         "transc": "[ˈhɛlpfʊl]",
         "transl": "готовый помочь",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4324,6 +4864,7 @@
         "transc": "[rɪˈlaɪəbl]",
         "transl": "надежный",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4332,6 +4873,7 @@
         "transc": "[rɪsˈpɒnsəbl]",
         "transl": "ответственный",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4340,6 +4882,7 @@
         "transc": "[naʊ]",
         "transl": "сейчас",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4348,7 +4891,8 @@
         "transc": "[ðɛn]",
         "transl": "тогда",
         "learn": null,
-        "know": true,
+        "rd": null,
+        "know": null,
         "tags": []
     },
     "545": {
@@ -4356,6 +4900,7 @@
         "transc": "[əˈgɛn]",
         "transl": "снова",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4364,6 +4909,7 @@
         "transc": "[ˈɔːlweɪz]",
         "transl": "всегда",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4372,6 +4918,7 @@
         "transc": "[ˈnɛvə]",
         "transl": "никогда",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4380,7 +4927,8 @@
         "transc": "[suːn]",
         "transl": "скоро",
         "learn": null,
-        "know": false,
+        "rd": null,
+        "know": null,
         "tags": []
     },
     "549": {
@@ -4388,6 +4936,7 @@
         "transc": "[leɪt]",
         "transl": "поздно",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4396,6 +4945,7 @@
         "transc": "[ˈɜːli]",
         "transl": "рано",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4404,6 +4954,7 @@
         "transc": "[bɪˈfɔː]",
         "transl": "до",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4412,6 +4963,7 @@
         "transc": "[ˈɑːftə]",
         "transl": "после",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4420,7 +4972,8 @@
         "transc": "[ˈjɛstədeɪ]",
         "transl": "вчера",
         "learn": null,
-        "know": true,
+        "rd": null,
+        "know": null,
         "tags": []
     },
     "554": {
@@ -4428,6 +4981,7 @@
         "transc": "[təˈdeɪ]",
         "transl": "сегодня",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4436,6 +4990,7 @@
         "transc": "[təˈmɒrəʊ]",
         "transl": "завтра",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4444,7 +4999,8 @@
         "transc": "[nɛkst wiːk] [jɪə]",
         "transl": "на следующей неделе (в след. году)",
         "learn": null,
-        "know": true,
+        "rd": null,
+        "know": null,
         "tags": []
     },
     "557": {
@@ -4452,6 +5008,7 @@
         "transc": "[ˈɛvri deɪ] [wiːk] [mʌnθ]",
         "transl": "каждый день (неделю, месяц)",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4460,6 +5017,7 @@
         "transc": "[ðɪs ˈmɔːnɪŋ] [ˈɑːftəˈnuːn]",
         "transl": "этим утром (днем)",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4468,6 +5026,7 @@
         "transc": "[təˈnaɪt]",
         "transl": "этим вечером (ночью)",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4476,6 +5035,7 @@
         "transc": "[ˈsʌmtaɪmz]",
         "transl": "иногда",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4484,6 +5044,7 @@
         "transc": "[ˈɒf (t)(ə)n]",
         "transl": "часто",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4492,6 +5053,7 @@
         "transc": "[ˈreəli], [ˈsɛldəm]",
         "transl": "редко",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4500,6 +5062,7 @@
         "transc": "[ˈriːsntli]",
         "transl": "недавно",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4508,6 +5071,7 @@
         "transc": "[ˈleɪtli]",
         "transl": "в последнее время",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4516,6 +5080,7 @@
         "transc": "[wʌns]",
         "transl": "однажды",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4524,6 +5089,7 @@
         "transc": "[ˈjuːʒʊəli]",
         "transl": "обычно",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4532,6 +5098,7 @@
         "transc": "[ɔːlˈrɛdi]",
         "transl": "уже",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4540,6 +5107,7 @@
         "transc": "[jɛt]",
         "transl": "уже, еще",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4548,6 +5116,7 @@
         "transc": "[nɒt jɛt]",
         "transl": "еще не",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4556,6 +5125,7 @@
         "transc": "[stɪl]",
         "transl": "все еще",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4564,6 +5134,7 @@
         "transc": "[hɪə]",
         "transl": "здесь",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4572,7 +5143,8 @@
         "transc": "[ðeə]",
         "transl": "там",
         "learn": null,
-        "know": true,
+        "rd": null,
+        "know": null,
         "tags": []
     },
     "573": {
@@ -4580,6 +5152,7 @@
         "transc": "[weə]",
         "transl": "где",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4588,6 +5161,7 @@
         "transc": "[əˈraʊnd]",
         "transl": "вокруг",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4596,6 +5170,7 @@
         "transc": "[ɪnˈsaɪd]",
         "transl": "внутри",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4604,6 +5179,7 @@
         "transc": "[ˌaʊtˈsaɪd]",
         "transl": "снаружи",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4612,6 +5188,7 @@
         "transc": "[əˈbʌv]",
         "transl": "над",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4620,7 +5197,8 @@
         "transc": "[ˈʌndə], [bɪˈləʊ]",
         "transl": "под",
         "learn": null,
-        "know": true,
+        "rd": null,
+        "know": null,
         "tags": []
     },
     "579": {
@@ -4628,6 +5206,7 @@
         "transc": "[ˈsʌmweə]",
         "transl": "где-то",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4636,6 +5215,7 @@
         "transc": "[ˈɛnɪweə]",
         "transl": "где-нибудь, хоть где",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4644,6 +5224,7 @@
         "transc": "[ˈnəʊweə]",
         "transl": "нигде",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4652,6 +5233,7 @@
         "transc": "[ˈəʊnli]",
         "transl": "только",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4660,6 +5242,7 @@
         "transc": "[mʌʧ]",
         "transl": "много",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4668,6 +5251,7 @@
         "transc": "[ˈlɪtl]",
         "transl": "мало",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4676,7 +5260,8 @@
         "transc": "[ˈvɛri]",
         "transl": "очень",
         "learn": null,
-        "know": true,
+        "rd": null,
+        "know": null,
         "tags": []
     },
     "586": {
@@ -4684,6 +5269,7 @@
         "transc": "[səʊ]",
         "transl": "так",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4692,6 +5278,7 @@
         "transc": "[ɪˈnʌf]",
         "transl": "достаточно",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4700,6 +5287,7 @@
         "transc": "[ˈɔːlməʊst]",
         "transl": "почти",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4708,6 +5296,7 @@
         "transc": "[wɛl]",
         "transl": "хорошо",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4716,6 +5305,7 @@
         "transc": "[bæd]",
         "transl": "плохо",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4724,7 +5314,8 @@
         "transc": "[fɑːst]",
         "transl": "быстро",
         "learn": null,
-        "know": true,
+        "rd": null,
+        "know": null,
         "tags": []
     },
     "592": {
@@ -4732,6 +5323,7 @@
         "transc": "[ˈkwɪkli]",
         "transl": "быстро",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4740,6 +5332,7 @@
         "transc": "[ˈsləʊli]",
         "transl": "медленно",
         "learn": null,
+        "rd": null,
         "know": null,
         "tags": []
     },
@@ -4748,7 +5341,8 @@
         "transc": "[tuː]",
         "transl": "слишком (+ наречие)",
         "learn": null,
-        "know": true,
+        "rd": null,
+        "know": null,
         "tags": []
     }
 }

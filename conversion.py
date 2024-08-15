@@ -15,6 +15,7 @@ for i in sheet_names:
             "transc": None,
             "transl": None,
             "learn": None,
+            "rd": None,
             "know": None,
             "tags": [],
         }

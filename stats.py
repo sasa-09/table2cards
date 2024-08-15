@@ -1,6 +1,4 @@
-from data import get_data
-
-data = get_data()
+from data import data
 
 def words_list(atr):
     unknow_list = []
