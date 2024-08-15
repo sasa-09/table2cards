@@ -100,7 +100,7 @@
         "transc": "[tɜːn]",
         "transl": "поворачивать",
         "learn": null,
-        "know": null,
+        "know": false,
         "tags": []
     },
     "14": {
@@ -908,7 +908,7 @@
         "transc": "[hɑːf ən ˈaʊə]",
         "transl": "полчаса",
         "learn": null,
-        "know": null,
+        "know": false,
         "tags": []
     },
     "115": {
@@ -1164,7 +1164,7 @@
         "transc": "[lʌv]",
         "transl": "любовь",
         "learn": null,
-        "know": null,
+        "know": true,
         "tags": []
     },
     "147": {
@@ -1276,7 +1276,7 @@
         "transc": "[ˈgrændˌfɑːðə]",
         "transl": "дедушка",
         "learn": null,
-        "know": null,
+        "know": true,
         "tags": []
     },
     "161": {
@@ -1844,7 +1844,7 @@
         "transc": "[ˈbɛdru(ː)m]",
         "transl": "спальня",
         "learn": null,
-        "know": null,
+        "know": true,
         "tags": []
     },
     "232": {
@@ -2028,7 +2028,7 @@
         "transc": "[ˈtaʊəl]",
         "transl": "полотенце",
         "learn": null,
-        "know": null,
+        "know": false,
         "tags": []
     },
     "255": {
@@ -2356,7 +2356,7 @@
         "transc": "[graʊnd]",
         "transl": "земля",
         "learn": null,
-        "know": null,
+        "know": true,
         "tags": []
     },
     "296": {
@@ -2380,7 +2380,7 @@
         "transc": "[plɑːnt]",
         "transl": "растение",
         "learn": null,
-        "know": null,
+        "know": true,
         "tags": []
     },
     "299": {
@@ -2572,7 +2572,7 @@
         "transc": "[stɔːm]",
         "transl": "буря",
         "learn": null,
-        "know": null,
+        "know": true,
         "tags": []
     },
     "323": {
@@ -2764,7 +2764,7 @@
         "transc": "[ˈhɒspɪtl]",
         "transl": "больница",
         "learn": null,
-        "know": null,
+        "know": true,
         "tags": []
     },
     "347": {
@@ -3036,7 +3036,7 @@
         "transc": "[bɪl]",
         "transl": "купюра",
         "learn": null,
-        "know": null,
+        "know": false,
         "tags": []
     },
     "381": {
@@ -3124,7 +3124,7 @@
         "transc": "[faɪn]",
         "transl": "штраф",
         "learn": null,
-        "know": null,
+        "know": false,
         "tags": []
     },
     "392": {
@@ -3548,7 +3548,7 @@
         "transc": "[ˈpjuːpl]",
         "transl": "ученик",
         "learn": null,
-        "know": null,
+        "know": true,
         "tags": []
     },
     "445": {
@@ -3932,7 +3932,7 @@
         "transc": "[kəʊld]",
         "transl": "холодный",
         "learn": null,
-        "know": null,
+        "know": true,
         "tags": []
     },
     "493": {
@@ -4036,7 +4036,7 @@
         "transc": "[sɒft]",
         "transl": "мягкий",
         "learn": null,
-        "know": null,
+        "know": true,
         "tags": []
     },
     "506": {
@@ -4148,7 +4148,7 @@
         "transc": "[miːn]",
         "transl": "злой, подлый, нехороший",
         "learn": null,
-        "know": null,
+        "know": false,
         "tags": []
     },
     "520": {
@@ -4444,7 +4444,7 @@
         "transc": "[nɛkst wiːk] [jɪə]",
         "transl": "на следующей неделе (в след. году)",
         "learn": null,
-        "know": null,
+        "know": true,
         "tags": []
     },
     "557": {
