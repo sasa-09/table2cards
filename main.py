@@ -1,7 +1,7 @@
-from data import data
 from stats import stats
 from tape import tape
-from repeat import repeat, repeat_list
+from repeat import repeat
+from settings import data
 
 def main():
     nl = tape()
@@ -10,8 +10,7 @@ def main():
         print(f"{data[kw]["word"]} {data[kw]["transc"]} - {data[kw]["transl"]}")
     print("\nrepeat these words:")
     repeat()
-    print("\nnext repeat:")
-    repeat_list()
+    print("\n---end---\n")
 
     
 
@@ -22,7 +21,6 @@ while(True):
     1. type
     2. stats
     3. repeat
-    4. repeat_list
     ...
     """
     answer = input(message)
@@ -34,8 +32,6 @@ while(True):
         stats()
     elif answer == "3":
         repeat()
-    elif answer == "4":
-        repeat_list()
     elif answer == "q":
         break
     else:

@@ -5,6 +5,7 @@
         "transl": "быть",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -14,6 +15,7 @@
         "transl": "делать",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -23,6 +25,7 @@
         "transl": "иметь",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -32,6 +35,7 @@
         "transl": "делать",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -41,6 +45,7 @@
         "transl": "получать, становиться",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -50,6 +55,7 @@
         "transl": "идти",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -59,6 +65,7 @@
         "transl": "брать",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -68,6 +75,7 @@
         "transl": "(образует будущее время)",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -77,6 +85,7 @@
         "transl": "двигать (-ся)",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -86,6 +95,7 @@
         "transl": "идти",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -95,6 +105,7 @@
         "transl": "идти пешком, гулять",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -104,6 +115,7 @@
         "transl": "бежать",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -113,6 +125,7 @@
         "transl": "поворачивать",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -122,6 +135,7 @@
         "transl": "летать",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -131,6 +145,7 @@
         "transl": "вести машину",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -140,6 +155,7 @@
         "transl": "плыть",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -149,6 +165,7 @@
         "transl": "прыгать",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -158,6 +175,7 @@
         "transl": "садиться",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -167,6 +185,7 @@
         "transl": "ложиться",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -176,6 +195,7 @@
         "transl": "вставать",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -185,6 +205,7 @@
         "transl": "стоять",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -194,6 +215,7 @@
         "transl": "лежать",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -203,6 +225,7 @@
         "transl": "сидеть",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -212,6 +235,7 @@
         "transl": "делать шаг",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -221,6 +245,7 @@
         "transl": "танцевать",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -230,6 +255,7 @@
         "transl": "катить (-ся)",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -239,6 +265,7 @@
         "transl": "толкать, нажимать",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -248,6 +275,7 @@
         "transl": "тянуть",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -257,6 +285,7 @@
         "transl": "ставить, класть, помещать",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -266,6 +295,7 @@
         "transl": "брать",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -275,6 +305,7 @@
         "transl": "давать",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -284,6 +315,7 @@
         "transl": "передавать",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -293,6 +325,7 @@
         "transl": "бросать",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -302,6 +335,7 @@
         "transl": "бить",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -311,6 +345,7 @@
         "transl": "прикасаться",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -318,9 +353,10 @@
         "word": "point at",
         "transc": "[pɔɪnt æt]",
         "transl": "указывать на что-то",
-        "learn": 1,
-        "rd": "2024-08-17",
-        "know": false,
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "know": null,
         "tags": []
     },
     "37": {
@@ -329,6 +365,7 @@
         "transl": "держать",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -338,6 +375,7 @@
         "transl": "стучать (напр. в дверь)",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -347,6 +385,7 @@
         "transl": "сказать",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -356,6 +395,7 @@
         "transl": "говорить",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -365,6 +405,7 @@
         "transl": "говорить, рассказывать, велеть",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -374,6 +415,7 @@
         "transl": "разговаривать",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -383,6 +425,7 @@
         "transl": "просить, спрашивать",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -392,6 +435,7 @@
         "transl": "отвечать",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -401,6 +445,7 @@
         "transl": "звонить по телефону",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -410,6 +455,7 @@
         "transl": "писать сообщение",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -419,6 +465,7 @@
         "transl": "плакать, кричать",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -428,6 +475,7 @@
         "transl": "объяснять",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -437,6 +485,7 @@
         "transl": "повторять",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -446,6 +495,7 @@
         "transl": "понимать",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -455,6 +505,7 @@
         "transl": "учить (обучать)",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -464,6 +515,7 @@
         "transl": "учить (учиться)",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -473,6 +525,7 @@
         "transl": "изучать",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -482,6 +535,7 @@
         "transl": "читать",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -491,6 +545,7 @@
         "transl": "писать",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -500,6 +555,7 @@
         "transl": "смотреть, наблюдать",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -509,6 +565,7 @@
         "transl": "слушать",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -518,6 +575,7 @@
         "transl": "слышать",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -527,6 +585,7 @@
         "transl": "помогать",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -536,6 +595,7 @@
         "transl": "думать",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -545,6 +605,7 @@
         "transl": "исправлять",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -554,6 +615,7 @@
         "transl": "делать ошибку",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -563,6 +625,7 @@
         "transl": "подсказывать, намекать",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -572,6 +635,7 @@
         "transl": "забывать",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -581,6 +645,7 @@
         "transl": "помнить",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -590,6 +655,7 @@
         "transl": "напоминать",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -599,6 +665,7 @@
         "transl": "жить",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -608,6 +675,7 @@
         "transl": "спать",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -617,6 +685,7 @@
         "transl": "просыпаться",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -626,6 +695,7 @@
         "transl": "идти спать",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -635,6 +705,7 @@
         "transl": "принимать душ",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -644,6 +715,7 @@
         "transl": "чистить зубы",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -653,6 +725,7 @@
         "transl": "причесываться",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -662,6 +735,7 @@
         "transl": "бриться",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -671,6 +745,7 @@
         "transl": "одеваться",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -680,6 +755,7 @@
         "transl": "делать макияж",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -689,6 +765,7 @@
         "transl": "готовить завтрак",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -698,6 +775,7 @@
         "transl": "завтракать",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -707,6 +785,7 @@
         "transl": "идти на работу",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -716,6 +795,7 @@
         "transl": "работать",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -725,6 +805,7 @@
         "transl": "отдыхать",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -734,6 +815,7 @@
         "transl": "принимать ванну",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -743,6 +825,7 @@
         "transl": "готовить (еду)",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -752,6 +835,7 @@
         "transl": "есть",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -761,6 +845,7 @@
         "transl": "убираться",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -770,6 +855,7 @@
         "transl": "мыть посуду",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -779,6 +865,7 @@
         "transl": "заниматься стиркой",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -788,6 +875,7 @@
         "transl": "заниматься спортом",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -797,6 +885,7 @@
         "transl": "развлекаться, веселиться",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -806,6 +895,7 @@
         "transl": "играть",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -815,6 +905,7 @@
         "transl": "начинаться (-ся)",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -824,6 +915,7 @@
         "transl": "начинаться (-ся)",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -833,6 +925,7 @@
         "transl": "продолжать (-ся)",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -842,6 +935,7 @@
         "transl": "продолжать (-ся)",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -851,6 +945,7 @@
         "transl": "заканчивать (-ся)",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -860,6 +955,7 @@
         "transl": "заканчивать (-ся)",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -869,6 +965,7 @@
         "transl": "прекращать, останавливать (-ся)",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -878,6 +975,7 @@
         "transl": "завершать (-ся)",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -887,6 +985,7 @@
         "transl": "откладывать, переносить",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -896,6 +995,7 @@
         "transl": "откладывать, переносить",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -905,6 +1005,7 @@
         "transl": "время",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -914,6 +1015,7 @@
         "transl": "прошлое",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -923,6 +1025,7 @@
         "transl": "будущее",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -932,6 +1035,7 @@
         "transl": "настоящее",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -941,6 +1045,7 @@
         "transl": "эра, эпоха (также \"возраст\")",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -950,6 +1055,7 @@
         "transl": "тысячелетие",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -959,6 +1065,7 @@
         "transl": "век",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -968,6 +1075,7 @@
         "transl": "десятилетие",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -977,6 +1085,7 @@
         "transl": "год",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -986,6 +1095,7 @@
         "transl": "месяц",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -995,6 +1105,7 @@
         "transl": "неделя",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1004,6 +1115,7 @@
         "transl": "день",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1013,6 +1125,7 @@
         "transl": "час",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1022,6 +1135,7 @@
         "transl": "полчаса",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1031,6 +1145,7 @@
         "transl": "минута",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1040,6 +1155,7 @@
         "transl": "секунда",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1049,6 +1165,7 @@
         "transl": "часы (наручные)",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1058,6 +1175,7 @@
         "transl": "часы (настенные)",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1067,6 +1185,7 @@
         "transl": "календарь",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1076,6 +1195,7 @@
         "transl": "расписание",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1085,6 +1205,7 @@
         "transl": "время года",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1092,9 +1213,10 @@
         "word": "winter",
         "transc": "[ˈwɪntə]",
         "transl": "зима",
-        "learn": 2,
-        "rd": "2024-08-18",
-        "know": false,
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "know": null,
         "tags": []
     },
     "123": {
@@ -1103,6 +1225,7 @@
         "transl": "весна",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1112,6 +1235,7 @@
         "transl": "лето",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1121,6 +1245,7 @@
         "transl": "осень",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1130,6 +1255,7 @@
         "transl": "январь",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1139,6 +1265,7 @@
         "transl": "февраль",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1148,6 +1275,7 @@
         "transl": "март",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1157,6 +1285,7 @@
         "transl": "апрель",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1166,6 +1295,7 @@
         "transl": "май",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1175,6 +1305,7 @@
         "transl": "июнь",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1184,6 +1315,7 @@
         "transl": "июль",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1193,6 +1325,7 @@
         "transl": "август",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1202,6 +1335,7 @@
         "transl": "сентябрь",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1211,6 +1345,7 @@
         "transl": "октябрь",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1220,6 +1355,7 @@
         "transl": "ноябрь",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1229,6 +1365,7 @@
         "transl": "декабрь",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1238,6 +1375,7 @@
         "transl": "понедельник",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1247,6 +1385,7 @@
         "transl": "вторник",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1256,6 +1395,7 @@
         "transl": "среда",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1265,6 +1405,7 @@
         "transl": "четверг",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1274,6 +1415,7 @@
         "transl": "пятница",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1283,6 +1425,7 @@
         "transl": "суббота",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1292,6 +1435,7 @@
         "transl": "воскресенье",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1301,6 +1445,7 @@
         "transl": "семья",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1310,6 +1455,7 @@
         "transl": "любовь",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1319,6 +1465,7 @@
         "transl": "человек",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1328,6 +1475,7 @@
         "transl": "люди, народ",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1337,6 +1485,7 @@
         "transl": "мужчина, человек",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1346,6 +1495,7 @@
         "transl": "женщина",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1355,6 +1505,7 @@
         "transl": "мальчик",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1364,6 +1515,7 @@
         "transl": "парень",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1373,6 +1525,7 @@
         "transl": "девочка, девушка",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1382,6 +1535,7 @@
         "transl": "родители",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1391,6 +1545,7 @@
         "transl": "мать",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1400,6 +1555,7 @@
         "transl": "отец",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1409,6 +1565,7 @@
         "transl": "мама",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1418,6 +1575,7 @@
         "transl": "папа",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1427,6 +1585,7 @@
         "transl": "бабушка",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1436,6 +1595,7 @@
         "transl": "дедушка",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1445,6 +1605,7 @@
         "transl": "бабушки и дедушки",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1454,6 +1615,7 @@
         "transl": "брат",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1461,9 +1623,10 @@
         "word": "sister",
         "transc": "[ˈsɪstə]",
         "transl": "сестра",
-        "learn": 2,
-        "rd": "2024-08-16",
-        "know": false,
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "know": null,
         "tags": []
     },
     "164": {
@@ -1472,6 +1635,7 @@
         "transl": "братья и сестры",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1481,6 +1645,7 @@
         "transl": "кузен (двоюродные братья и сестры)",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1488,9 +1653,10 @@
         "word": "wife",
         "transc": "[waɪf]",
         "transl": "жена",
-        "learn": 2,
-        "rd": "2024-08-16",
-        "know": false,
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "know": null,
         "tags": []
     },
     "167": {
@@ -1499,6 +1665,7 @@
         "transl": "муж",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1508,6 +1675,7 @@
         "transl": "тесть",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1517,6 +1685,7 @@
         "transl": "теща",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1526,6 +1695,7 @@
         "transl": "зять",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1535,6 +1705,7 @@
         "transl": "невестка",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1544,6 +1715,7 @@
         "transl": "сын",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1553,6 +1725,7 @@
         "transl": "дочь",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1562,6 +1735,7 @@
         "transl": "маленький ребенок",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1571,6 +1745,7 @@
         "transl": "дети",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1580,6 +1755,7 @@
         "transl": "подросток",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1589,6 +1765,7 @@
         "transl": "тетя",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1598,6 +1775,7 @@
         "transl": "дядя",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1607,6 +1785,7 @@
         "transl": "племянница",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1616,6 +1795,7 @@
         "transl": "племянник",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1625,6 +1805,7 @@
         "transl": "девушка (подруга)",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1634,6 +1815,7 @@
         "transl": "парень (бойфренд)",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1643,6 +1825,7 @@
         "transl": "друг",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1650,9 +1833,10 @@
         "word": "relatives",
         "transc": "[ˈrɛlətɪvz]",
         "transl": "родственники",
-        "learn": 2,
-        "rd": "2024-08-18",
-        "know": false,
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "know": null,
         "tags": []
     },
     "185": {
@@ -1661,6 +1845,7 @@
         "transl": "помолвка",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1670,6 +1855,7 @@
         "transl": "женитьба, замужество, брак",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1679,6 +1865,7 @@
         "transl": "свадьба",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1688,6 +1875,7 @@
         "transl": "невеста",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1697,6 +1885,7 @@
         "transl": "жених",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1706,6 +1895,7 @@
         "transl": "похороны",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1715,6 +1905,7 @@
         "transl": "рождение",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1724,6 +1915,7 @@
         "transl": "дом",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1733,6 +1925,7 @@
         "transl": "дом",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1742,6 +1935,7 @@
         "transl": "квартира",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1751,6 +1945,7 @@
         "transl": "крыша",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1760,6 +1955,7 @@
         "transl": "комната",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1769,6 +1965,7 @@
         "transl": "стена",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1778,6 +1975,7 @@
         "transl": "пол, этаж",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1787,6 +1985,7 @@
         "transl": "лестница, ступеньки",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1796,6 +1995,7 @@
         "transl": "потолок",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1805,6 +2005,7 @@
         "transl": "окно",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1814,6 +2015,7 @@
         "transl": "дверь",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1823,6 +2025,7 @@
         "transl": "дверной звонок",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1832,6 +2035,7 @@
         "transl": "замок",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1841,6 +2045,7 @@
         "transl": "ключ",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1850,6 +2055,7 @@
         "transl": "мебель",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1859,6 +2065,7 @@
         "transl": "вещь, предмет",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1868,6 +2075,7 @@
         "transl": "лампа",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1875,9 +2083,10 @@
         "word": "light bulb",
         "transc": "[laɪt bʌlb]",
         "transl": "лампочка",
-        "learn": 2,
-        "rd": "2024-08-18",
-        "know": false,
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "know": null,
         "tags": []
     },
     "210": {
@@ -1886,6 +2095,7 @@
         "transl": "стол",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1895,6 +2105,7 @@
         "transl": "письменный стол",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1904,6 +2115,7 @@
         "transl": "стул",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1913,6 +2125,7 @@
         "transl": "кресло",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1922,6 +2135,7 @@
         "transl": "диван",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1931,6 +2145,7 @@
         "transl": "кухонная плита",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1940,6 +2155,7 @@
         "transl": "пылесос",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1949,6 +2165,7 @@
         "transl": "микроволновая печь",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1958,6 +2175,7 @@
         "transl": "кондиционер",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1967,6 +2185,7 @@
         "transl": "водопроводный кран",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1976,6 +2195,7 @@
         "transl": "душ",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1985,6 +2205,7 @@
         "transl": "стиральная машина",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -1994,6 +2215,7 @@
         "transl": "мыло",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2003,6 +2225,7 @@
         "transl": "шампунь",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2012,6 +2235,7 @@
         "transl": "туалетные принадлежности (мыло, шампунь и проч.)",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2021,6 +2245,7 @@
         "transl": "ванная комната \\ туалет",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2030,6 +2255,7 @@
         "transl": "зеркало",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2039,6 +2265,7 @@
         "transl": "зал, холл",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2048,6 +2275,7 @@
         "transl": "коридор, прихожая",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2057,6 +2285,7 @@
         "transl": "гостиная",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2066,6 +2295,7 @@
         "transl": "кухня",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2075,6 +2305,7 @@
         "transl": "спальня",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2084,6 +2315,7 @@
         "transl": "сосед",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2093,6 +2325,7 @@
         "transl": "шкаф для одежды",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2102,6 +2335,7 @@
         "transl": "шкаф, буфет",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2111,6 +2345,7 @@
         "transl": "шкаф, кладовка",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2120,6 +2355,7 @@
         "transl": "тарелки, посуда",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2129,6 +2365,7 @@
         "transl": "чашка",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2138,6 +2375,7 @@
         "transl": "вилка",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2147,6 +2385,7 @@
         "transl": "ложка",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2156,6 +2395,7 @@
         "transl": "тарелка",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2165,6 +2405,7 @@
         "transl": "нож",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2174,6 +2415,7 @@
         "transl": "инструменты",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2183,6 +2425,7 @@
         "transl": "телевизор",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2192,6 +2435,7 @@
         "transl": "пульт управления",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2201,6 +2445,7 @@
         "transl": "компьютер",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2210,6 +2455,7 @@
         "transl": "ноутбук",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2219,6 +2465,7 @@
         "transl": "телефон",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2228,6 +2475,7 @@
         "transl": "кровать",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2237,6 +2485,7 @@
         "transl": "одеяло",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2246,6 +2495,7 @@
         "transl": "подушка",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2255,6 +2505,7 @@
         "transl": "наволочка",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2264,6 +2515,7 @@
         "transl": "простыня",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2273,6 +2525,7 @@
         "transl": "постельное белье",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2282,6 +2535,7 @@
         "transl": "полотенце",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2291,6 +2545,7 @@
         "transl": "фильм",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2300,6 +2555,7 @@
         "transl": "книга",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2309,6 +2565,7 @@
         "transl": "фотоаппарат, видеокамера",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2318,6 +2575,7 @@
         "transl": "газета",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2325,9 +2583,10 @@
         "word": "magazine",
         "transc": "[ˌmægəˈziːn]",
         "transl": "журнал",
-        "learn": 2,
-        "rd": "2024-08-16",
-        "know": false,
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "know": null,
         "tags": []
     },
     "260": {
@@ -2336,6 +2595,7 @@
         "transl": "одежда",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2345,6 +2605,7 @@
         "transl": "рубашка",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2354,6 +2615,7 @@
         "transl": "брюки",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2363,6 +2625,7 @@
         "transl": "пиджак",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2372,6 +2635,7 @@
         "transl": "свитер, джемпер",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2381,6 +2645,7 @@
         "transl": "шляпа",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2390,6 +2655,7 @@
         "transl": "кепка",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2399,6 +2665,7 @@
         "transl": "карман",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2408,6 +2675,7 @@
         "transl": "шорты",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2417,6 +2685,7 @@
         "transl": "туфли",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2426,6 +2695,7 @@
         "transl": "платье",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2435,6 +2705,7 @@
         "transl": "юбка",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2444,6 +2715,7 @@
         "transl": "джинсы",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2453,6 +2725,7 @@
         "transl": "нижнее белье",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2462,6 +2735,7 @@
         "transl": "носки",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2471,6 +2745,7 @@
         "transl": "сумка",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2480,6 +2755,7 @@
         "transl": "дамская сумочка, кошелек",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2489,6 +2765,7 @@
         "transl": "пальто",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2498,6 +2775,7 @@
         "transl": "шарф",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2507,6 +2785,7 @@
         "transl": "перчатки",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2516,6 +2795,7 @@
         "transl": "бумажник",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2525,6 +2805,7 @@
         "transl": "униформа",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2534,6 +2815,7 @@
         "transl": "ремень",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2543,6 +2825,7 @@
         "transl": "кнопка, пуговица",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2552,6 +2835,7 @@
         "transl": "застежка молния",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2561,6 +2845,7 @@
         "transl": "природа",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2570,6 +2855,7 @@
         "transl": "север",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2579,6 +2865,7 @@
         "transl": "юг",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2588,6 +2875,7 @@
         "transl": "запад",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2597,6 +2885,7 @@
         "transl": "восток",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2606,6 +2895,7 @@
         "transl": "солнце",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2615,6 +2905,7 @@
         "transl": "луна",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2624,6 +2915,7 @@
         "transl": "звезда",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2633,6 +2925,7 @@
         "transl": "небо",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2642,6 +2935,7 @@
         "transl": "Земля",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2651,6 +2945,7 @@
         "transl": "земля",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2660,6 +2955,7 @@
         "transl": "космос, пространство",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2669,6 +2965,7 @@
         "transl": "воздух",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2678,6 +2975,7 @@
         "transl": "растение",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2687,6 +2985,7 @@
         "transl": "дерево",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2696,6 +2995,7 @@
         "transl": "цветок",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2705,6 +3005,7 @@
         "transl": "домашнее животное",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2714,6 +3015,7 @@
         "transl": "дикое животное",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2723,6 +3025,7 @@
         "transl": "птица",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2732,6 +3035,7 @@
         "transl": "домашняя птица",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2741,6 +3045,7 @@
         "transl": "домашнее животное (питомец)",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2750,6 +3055,7 @@
         "transl": "кошка",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2759,6 +3065,7 @@
         "transl": "собака",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2768,6 +3075,7 @@
         "transl": "лошадь",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2777,6 +3085,7 @@
         "transl": "цыпленок, курица",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2786,6 +3095,7 @@
         "transl": "мышь",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2795,6 +3105,7 @@
         "transl": "море",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2804,6 +3115,7 @@
         "transl": "берег",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2813,6 +3125,7 @@
         "transl": "река",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2822,6 +3135,7 @@
         "transl": "снег",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2831,6 +3145,7 @@
         "transl": "песок",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2840,6 +3155,7 @@
         "transl": "дождь",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2849,6 +3165,7 @@
         "transl": "холод",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2858,6 +3175,7 @@
         "transl": "жара",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2867,6 +3185,7 @@
         "transl": "огонь, пожар",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2876,6 +3195,7 @@
         "transl": "вода",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2885,6 +3205,7 @@
         "transl": "ветер",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2894,6 +3215,7 @@
         "transl": "буря",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2903,6 +3225,7 @@
         "transl": "погода",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2912,6 +3235,7 @@
         "transl": "прогноз погоды",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2921,6 +3245,7 @@
         "transl": "город",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2930,6 +3255,7 @@
         "transl": "здание",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2939,6 +3265,7 @@
         "transl": "улица",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2948,6 +3275,7 @@
         "transl": "квартал",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2957,6 +3285,7 @@
         "transl": "светофор",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2966,6 +3295,7 @@
         "transl": "перекресток",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2975,6 +3305,7 @@
         "transl": "пешеходный переход",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2984,6 +3315,7 @@
         "transl": "дорожный знак",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -2993,6 +3325,7 @@
         "transl": "автомобиль",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3002,6 +3335,7 @@
         "transl": "общественный транспорт",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3011,6 +3345,7 @@
         "transl": "аэропорт",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3020,6 +3355,7 @@
         "transl": "вокзал",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3029,6 +3365,7 @@
         "transl": "порт",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3036,9 +3373,10 @@
         "word": "bus station (bus terminal)",
         "transc": "[bʌs ˈsteɪʃən] [bʌs ˈtɜːmɪnl]",
         "transl": "автобусная станция",
-        "learn": 1,
-        "rd": "2024-08-17",
-        "know": false,
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "know": null,
         "tags": []
     },
     "339": {
@@ -3047,6 +3385,7 @@
         "transl": "такси",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3056,6 +3395,7 @@
         "transl": "мост",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3065,6 +3405,7 @@
         "transl": "магазин",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3072,9 +3413,10 @@
         "word": "mall",
         "transc": "[mɔːl]",
         "transl": "торговый центр",
-        "learn": 1,
-        "rd": "2024-08-17",
-        "know": false,
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "know": null,
         "tags": []
     },
     "343": {
@@ -3083,6 +3425,7 @@
         "transl": "кинотеатр",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3092,6 +3435,7 @@
         "transl": "театр",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3101,6 +3445,7 @@
         "transl": "полицейский участок",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3110,6 +3455,7 @@
         "transl": "больница",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3119,6 +3465,7 @@
         "transl": "гостиница",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3128,6 +3475,7 @@
         "transl": "почта",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3137,6 +3485,7 @@
         "transl": "вай-фай",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3146,6 +3495,7 @@
         "transl": "посольство",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3155,6 +3505,7 @@
         "transl": "посол",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3164,6 +3515,7 @@
         "transl": "прохожий",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3173,6 +3525,7 @@
         "transl": "пешеход",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3182,6 +3535,7 @@
         "transl": "полицейский",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3191,6 +3545,7 @@
         "transl": "чрезвычайная ситуация",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3200,6 +3555,7 @@
         "transl": "карта",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3209,6 +3565,7 @@
         "transl": "метро",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3218,6 +3575,7 @@
         "transl": "станция",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3227,6 +3585,7 @@
         "transl": "остановка",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3236,6 +3595,7 @@
         "transl": "осмотр достопримечательностей",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3245,6 +3605,7 @@
         "transl": "работа",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3254,6 +3615,7 @@
         "transl": "работа",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3263,6 +3625,7 @@
         "transl": "офис",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3272,6 +3635,7 @@
         "transl": "рабочее место",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3281,6 +3645,7 @@
         "transl": "рабочие часы",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3290,6 +3655,7 @@
         "transl": "расписание, график",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3299,6 +3665,7 @@
         "transl": "коллега",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3308,6 +3675,7 @@
         "transl": "резюме",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3317,6 +3685,7 @@
         "transl": "день зарплаты",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3326,6 +3695,7 @@
         "transl": "зарплатный чек",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3335,6 +3705,7 @@
         "transl": "зарплата",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3344,6 +3715,7 @@
         "transl": "обязанности",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3353,6 +3725,7 @@
         "transl": "работодатель",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3362,6 +3735,7 @@
         "transl": "работник",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3371,6 +3745,7 @@
         "transl": "социальное страхование",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3380,6 +3755,7 @@
         "transl": "собеседование на работу",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3389,6 +3765,7 @@
         "transl": "здоровье",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3398,6 +3775,7 @@
         "transl": "деньги",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3407,6 +3785,7 @@
         "transl": "наличные",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3416,6 +3795,7 @@
         "transl": "купюра",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3425,6 +3805,7 @@
         "transl": "монета",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3434,6 +3815,7 @@
         "transl": "сдача, мелочь",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3443,6 +3825,7 @@
         "transl": "платеж",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3452,6 +3835,7 @@
         "transl": "чек",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3461,6 +3845,7 @@
         "transl": "банк",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3470,6 +3855,7 @@
         "transl": "банкомат",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3479,6 +3865,7 @@
         "transl": "банковская карта",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3488,6 +3875,7 @@
         "transl": "чаевые",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3497,6 +3885,7 @@
         "transl": "чек",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3506,6 +3895,7 @@
         "transl": "денежный перевод",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3515,6 +3905,7 @@
         "transl": "штраф",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3524,6 +3915,7 @@
         "transl": "бюджет",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3533,6 +3925,7 @@
         "transl": "еда",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3542,6 +3935,7 @@
         "transl": "завтрак",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3551,6 +3945,7 @@
         "transl": "обед",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3560,6 +3955,7 @@
         "transl": "ланч",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3569,6 +3965,7 @@
         "transl": "ужин",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3578,6 +3975,7 @@
         "transl": "блюдо, прием пищи",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3587,6 +3985,7 @@
         "transl": "напиток",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3596,6 +3995,7 @@
         "transl": "алкоголь",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3605,6 +4005,7 @@
         "transl": "вода",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3614,6 +4015,7 @@
         "transl": "кофе",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3623,6 +4025,7 @@
         "transl": "чай",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3632,6 +4035,7 @@
         "transl": "вино",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3641,6 +4045,7 @@
         "transl": "сок",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3650,6 +4055,7 @@
         "transl": "мясо",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3659,6 +4065,7 @@
         "transl": "хлопья",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3668,6 +4075,7 @@
         "transl": "хлеб",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3677,6 +4085,7 @@
         "transl": "овощи",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3686,6 +4095,7 @@
         "transl": "фрукты",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3695,6 +4105,7 @@
         "transl": "рыба",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3704,6 +4115,7 @@
         "transl": "растительное масло",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3713,6 +4125,7 @@
         "transl": "сливочное масло",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3722,6 +4135,7 @@
         "transl": "снэк, закуска",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3731,6 +4145,7 @@
         "transl": "конфета (леденец)",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3740,6 +4155,7 @@
         "transl": "выпечка",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3749,6 +4165,7 @@
         "transl": "диета",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3758,6 +4175,7 @@
         "transl": "холодильник",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3767,6 +4185,7 @@
         "transl": "вилка",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3776,6 +4195,7 @@
         "transl": "ложка",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3785,6 +4205,7 @@
         "transl": "стакан",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3794,6 +4215,7 @@
         "transl": "чашка",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3803,6 +4225,7 @@
         "transl": "кружка",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3812,6 +4235,7 @@
         "transl": "тарелка",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3821,6 +4245,7 @@
         "transl": "изучение, исследование",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3830,6 +4255,7 @@
         "transl": "школа",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3839,6 +4265,7 @@
         "transl": "колледж",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3848,6 +4275,7 @@
         "transl": "университет",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3857,6 +4285,7 @@
         "transl": "образование",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3866,6 +4295,7 @@
         "transl": "ученая степень",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3875,6 +4305,7 @@
         "transl": "выпускник",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3884,6 +4315,7 @@
         "transl": "диплом",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3893,6 +4325,7 @@
         "transl": "учебник",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3902,6 +4335,7 @@
         "transl": "тетрадь",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3911,6 +4345,7 @@
         "transl": "блокнот",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3920,6 +4355,7 @@
         "transl": "авторучка",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3929,6 +4365,7 @@
         "transl": "карандаш",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3938,6 +4375,7 @@
         "transl": "школьная доска",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3947,6 +4385,7 @@
         "transl": "маркерная доска",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3956,6 +4395,7 @@
         "transl": "класс (помещение)",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3965,6 +4405,7 @@
         "transl": "урок",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3974,6 +4415,7 @@
         "transl": "класс (этап обучения)",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3983,6 +4425,7 @@
         "transl": "оценка",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -3992,6 +4435,7 @@
         "transl": "ученик",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4001,6 +4445,7 @@
         "transl": "студент, ученик",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4010,6 +4455,7 @@
         "transl": "учитель",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4019,6 +4465,7 @@
         "transl": "экзамен",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4028,6 +4475,7 @@
         "transl": "тест",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4037,6 +4485,7 @@
         "transl": "цвет",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4046,6 +4495,7 @@
         "transl": "черный",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4055,6 +4505,7 @@
         "transl": "белый",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4064,6 +4515,7 @@
         "transl": "темный",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4073,6 +4525,7 @@
         "transl": "светлый",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4082,6 +4535,7 @@
         "transl": "красный",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4091,6 +4545,7 @@
         "transl": "оранжевый",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4100,6 +4555,7 @@
         "transl": "желтый",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4109,6 +4565,7 @@
         "transl": "зеленый",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4118,6 +4575,7 @@
         "transl": "голубой, синий",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4127,6 +4585,7 @@
         "transl": "фиолетовый (пурпурный)",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4136,6 +4595,7 @@
         "transl": "темно-фиолетовый",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4145,6 +4605,7 @@
         "transl": "розовый",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4154,6 +4615,7 @@
         "transl": "серебристый",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4163,6 +4625,7 @@
         "transl": "золотой",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4172,6 +4635,7 @@
         "transl": "коричневый",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4181,6 +4645,7 @@
         "transl": "серый",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4190,6 +4655,7 @@
         "transl": "большой",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4199,6 +4665,7 @@
         "transl": "большой, огромный",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4208,6 +4675,7 @@
         "transl": "маленький",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4217,6 +4685,7 @@
         "transl": "маленький",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4226,6 +4695,7 @@
         "transl": "крошечный",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4235,6 +4705,7 @@
         "transl": "длинный, долгий",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4244,6 +4715,7 @@
         "transl": "высокий",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4253,6 +4725,7 @@
         "transl": "высокий",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4262,6 +4735,7 @@
         "transl": "короткий",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4271,6 +4745,7 @@
         "transl": "тонкий",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4280,6 +4755,7 @@
         "transl": "толстый",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4289,6 +4765,7 @@
         "transl": "широкий",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4298,6 +4775,7 @@
         "transl": "узкий",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4307,6 +4785,7 @@
         "transl": "тяжелый (о весе)",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4316,6 +4795,7 @@
         "transl": "легкий (о весе)",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4325,6 +4805,7 @@
         "transl": "хороший",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4334,6 +4815,7 @@
         "transl": "плохой",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4343,6 +4825,7 @@
         "transl": "дешевый",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4352,6 +4835,7 @@
         "transl": "дорогой (о цене)",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4361,6 +4845,7 @@
         "transl": "удобный",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4370,6 +4855,7 @@
         "transl": "вкусный",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4379,6 +4865,7 @@
         "transl": "сладкий",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4388,6 +4875,7 @@
         "transl": "соленый",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4397,6 +4885,7 @@
         "transl": "горький",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4406,6 +4895,7 @@
         "transl": "кислый",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4415,6 +4905,7 @@
         "transl": "горячий, острый (о вкусе)",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4424,6 +4915,7 @@
         "transl": "холодный",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4433,6 +4925,7 @@
         "transl": "прохладный",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4442,6 +4935,7 @@
         "transl": "мерзкий (о вкусе)",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4451,6 +4945,7 @@
         "transl": "отвратительный (о внешности)",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4460,6 +4955,7 @@
         "transl": "красивый",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4469,6 +4965,7 @@
         "transl": "страшный",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4478,6 +4975,7 @@
         "transl": "смешной",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4487,6 +4985,7 @@
         "transl": "интересный",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4496,6 +4995,7 @@
         "transl": "скучный",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4505,6 +5005,7 @@
         "transl": "правдивый, истинный",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4514,6 +5015,7 @@
         "transl": "ложный",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4523,6 +5025,7 @@
         "transl": "полезный",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4532,6 +5035,7 @@
         "transl": "бесполезный",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4541,6 +5045,7 @@
         "transl": "мягкий",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4550,6 +5055,7 @@
         "transl": "твердый",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4559,6 +5065,7 @@
         "transl": "жидкий",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4568,6 +5075,7 @@
         "transl": "жесткий",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4577,6 +5085,7 @@
         "transl": "легкий, простой",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4586,6 +5095,7 @@
         "transl": "трудный, сложный",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4595,6 +5105,7 @@
         "transl": "молодой",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4604,6 +5115,7 @@
         "transl": "старый",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4613,6 +5125,7 @@
         "transl": "взрослый",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4622,6 +5135,7 @@
         "transl": "ленивый",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4631,6 +5145,7 @@
         "transl": "трудолюбивый",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4640,6 +5155,7 @@
         "transl": "умный",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4649,6 +5165,7 @@
         "transl": "глупый",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4658,6 +5175,7 @@
         "transl": "добрый",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4667,6 +5185,7 @@
         "transl": "злой, подлый, нехороший",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4676,6 +5195,7 @@
         "transl": "хороший, добрый",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4685,6 +5205,7 @@
         "transl": "плохой",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4694,6 +5215,7 @@
         "transl": "приятный, милый",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4703,6 +5225,7 @@
         "transl": "милый",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4712,6 +5235,7 @@
         "transl": "оптимистичный",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4721,6 +5245,7 @@
         "transl": "пессимистичный",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4730,6 +5255,7 @@
         "transl": "любопытный",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4739,6 +5265,7 @@
         "transl": "позитивный",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4748,6 +5275,7 @@
         "transl": "жестокий",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4757,6 +5285,7 @@
         "transl": "спокойный",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4766,6 +5295,7 @@
         "transl": "смелый",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4775,6 +5305,7 @@
         "transl": "клевый, крутой, прикольный",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4784,6 +5315,7 @@
         "transl": "крутой, сильный",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4793,6 +5325,7 @@
         "transl": "честный",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4802,6 +5335,7 @@
         "transl": "счастливый",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4811,6 +5345,7 @@
         "transl": "печальный",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4820,6 +5355,7 @@
         "transl": "сердитый",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4829,6 +5365,7 @@
         "transl": "испуганный",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4838,6 +5375,7 @@
         "transl": "уставший",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4847,6 +5385,7 @@
         "transl": "скучающий",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4856,6 +5395,7 @@
         "transl": "готовый помочь",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4865,6 +5405,7 @@
         "transl": "надежный",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4874,6 +5415,7 @@
         "transl": "ответственный",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4883,6 +5425,7 @@
         "transl": "сейчас",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4892,6 +5435,7 @@
         "transl": "тогда",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4901,6 +5445,7 @@
         "transl": "снова",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4910,6 +5455,7 @@
         "transl": "всегда",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4919,6 +5465,7 @@
         "transl": "никогда",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4928,6 +5475,7 @@
         "transl": "скоро",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4937,6 +5485,7 @@
         "transl": "поздно",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4946,6 +5495,7 @@
         "transl": "рано",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4955,6 +5505,7 @@
         "transl": "до",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4964,6 +5515,7 @@
         "transl": "после",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4973,6 +5525,7 @@
         "transl": "вчера",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4982,6 +5535,7 @@
         "transl": "сегодня",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -4991,6 +5545,7 @@
         "transl": "завтра",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -5000,6 +5555,7 @@
         "transl": "на следующей неделе (в след. году)",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -5009,6 +5565,7 @@
         "transl": "каждый день (неделю, месяц)",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -5018,6 +5575,7 @@
         "transl": "этим утром (днем)",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -5027,6 +5585,7 @@
         "transl": "этим вечером (ночью)",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -5036,6 +5595,7 @@
         "transl": "иногда",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -5045,6 +5605,7 @@
         "transl": "часто",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -5054,6 +5615,7 @@
         "transl": "редко",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -5063,6 +5625,7 @@
         "transl": "недавно",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -5072,6 +5635,7 @@
         "transl": "в последнее время",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -5081,6 +5645,7 @@
         "transl": "однажды",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -5090,6 +5655,7 @@
         "transl": "обычно",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -5099,6 +5665,7 @@
         "transl": "уже",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -5108,6 +5675,7 @@
         "transl": "уже, еще",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -5117,6 +5685,7 @@
         "transl": "еще не",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -5126,6 +5695,7 @@
         "transl": "все еще",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -5135,6 +5705,7 @@
         "transl": "здесь",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -5144,6 +5715,7 @@
         "transl": "там",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -5153,6 +5725,7 @@
         "transl": "где",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -5162,6 +5735,7 @@
         "transl": "вокруг",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -5171,6 +5745,7 @@
         "transl": "внутри",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -5180,6 +5755,7 @@
         "transl": "снаружи",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -5189,6 +5765,7 @@
         "transl": "над",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -5198,6 +5775,7 @@
         "transl": "под",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -5207,6 +5785,7 @@
         "transl": "где-то",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -5216,6 +5795,7 @@
         "transl": "где-нибудь, хоть где",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -5225,6 +5805,7 @@
         "transl": "нигде",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -5234,6 +5815,7 @@
         "transl": "только",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -5243,6 +5825,7 @@
         "transl": "много",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -5252,6 +5835,7 @@
         "transl": "мало",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -5261,6 +5845,7 @@
         "transl": "очень",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -5270,6 +5855,7 @@
         "transl": "так",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -5279,6 +5865,7 @@
         "transl": "достаточно",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -5288,6 +5875,7 @@
         "transl": "почти",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -5297,6 +5885,7 @@
         "transl": "хорошо",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -5306,6 +5895,7 @@
         "transl": "плохо",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -5315,6 +5905,7 @@
         "transl": "быстро",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -5324,6 +5915,7 @@
         "transl": "быстро",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -5333,6 +5925,7 @@
         "transl": "медленно",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     },
@@ -5342,6 +5935,7 @@
         "transl": "слишком (+ наречие)",
         "learn": null,
         "rd": null,
+        "rdl": null,
         "know": null,
         "tags": []
     }

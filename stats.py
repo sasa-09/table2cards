@@ -1,4 +1,4 @@
-from data import data
+from settings import data
 
 def words_list(atr):
     unknow_list = []
@@ -23,6 +23,7 @@ def stats():
         All words: {len(data)}
         1. Know words: {len(words_list(1))}
         2. Unknow words: {len(words_list(0))}
+        3. Repeat words: {len(words_list(0))}
         """
         print(message)
         answer = input()
@@ -37,6 +38,12 @@ def stats():
                 for kw in words_list(0):
                     print(f"{data[kw]["word"]} {data[kw]["transc"]} - {data[kw]["transl"]}")
                 break
+            elif answer == "3":
+                print("\nrepeat_list:")
+                for kw in words_list(0): 
+                    print(f"{data[kw]["word"]} - {data[kw]["rd"]}")
+                break
+
             elif answer == "q":
                 cotal = False
                 break

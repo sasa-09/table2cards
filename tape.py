@@ -1,10 +1,12 @@
 import random
-from stats import words_list
-from data import data, update_data
+from data import update_data
 import datetime as d
+from settings import data
+
 
 def tape():
     i = 0
+    today = str(d.date.today())
     cotal = True
     nl = []
     while (cotal and i < 3):
@@ -20,7 +22,7 @@ def tape():
                     data[kw]["know"] = False
                     i += 1
                     nl.append(kw)
-                    data[kw]["rd"] = str(d.date.today())
+                    data[kw]["rd"] = today
                     data[kw]["learn"] = 1
                     break
                 elif answer == "q":
