@@ -1,42 +1,31 @@
-from stats import stats
-from tape import tape
-from repeat import repeat
 from settings import data
 
-def main():
-    nl = tape()
-    print("learn these words:")
-    for kw in nl:
-        print(f"{data[kw]["word"]} {data[kw]["transc"]} - {data[kw]["transl"]}")
-    print("\nrepeat these words:")
-    repeat()
-    print("\n---end---\n")
+from tape import tape
+from stats import stats
+from repeat import repeat
+from conversion import conversion
+from data import update_data
 
-    
 
 while(True):
     message = """
     Hello! What do you want to do?:
-    0. main
     1. type
     2. stats
     3. repeat
+    4. conversion
     ...
     """
     answer = input(message)
-    if answer == "0":
-        main()
-    elif answer == "1":
+    if answer == "1":
         tape()
     elif answer == "2":
         stats()
     elif answer == "3":
         repeat()
+    elif answer == "4":
+        update_data(conversion())
     elif answer == "q":
         break
     else:
         continue
-
-
-
-
