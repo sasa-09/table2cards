@@ -3,11 +3,11 @@ from settings import data
 def words_list(atr = None):
     unknown_list = []
     know_list = []
-    for kw in data:
-        if data[kw]["known"] == True:
-            know_list.append(kw)
-        elif data[kw]["known"] == False:
-            unknown_list.append(kw)
+    for key_word in data:
+        if data[key_word]["known"] == True:
+            know_list.append(key_word)
+        elif data[key_word]["known"] == False:
+            unknown_list.append(key_word)
     if atr == 0:
         return unknown_list
     elif atr == 1:
@@ -19,9 +19,9 @@ def words_list(atr = None):
 
 def repeat_list(date):
     repeat_list = []
-    for kw in words_list():
-        if data[kw]["rd"] == date:
-            repeat_list.append(kw)
+    for key_word in words_list():
+        if data[key_word]["rd"] == date:
+            repeat_list.append(key_word)
     return repeat_list
 
 
@@ -40,21 +40,21 @@ def stats():
             answer = input(message)
             if answer == "1":
                 print("\nknown_list:")
-                for kw in words_list(1):
-                    print(f"{data[kw]["word"]} {data[kw]["transc"]} - {data[kw]["transl"]}")
+                for key_word in words_list(1):
+                    print(f"{data[key_word]["word"]} {data[key_word]["transc"]} - {data[key_word]["transl"]}")
                 break
             elif answer == "2":
                 print("\nunknown_list:")
-                for kw in words_list(0):
-                    print(f"{data[kw]["word"]} {data[kw]["transc"]} - {data[kw]["transl"]}")
+                for key_word in words_list(0):
+                    print(f"{data[key_word]["word"]} {data[key_word]["transc"]} - {data[key_word]["transl"]}")
                 break
             elif answer == "3":
                 print("\nrepeat_list:")
                 while (True):
                     date = input("enter date: ")
                     if date == "all":
-                        for kw in words_list():
-                            print(f"{data[kw]["word"]} - {data[kw]["rd"]}")
+                        for key_word in words_list():
+                            print(f"{data[key_word]["word"]} - {data[key_word]["rd"]}")
                     elif date == "q":
                         catalyst_2 = False
                         break
@@ -63,8 +63,8 @@ def stats():
                             continue
                         else:
                             catalyst_2 = False
-                            for kw in  repeat_list(date):
-                                print(f"{data[kw]["word"]} - {data[kw]["rd"]}")
+                            for key_word in  repeat_list(date):
+                                print(f"{data[key_word]["word"]} - {data[key_word]["rd"]}")
                             break
             elif answer == "q":
                 catalyst = False

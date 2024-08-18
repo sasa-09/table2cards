@@ -93,10 +93,10 @@
         "word": "go (went, gone)",
         "transc": "[gəʊ]",
         "transl": "идти",
-        "learn": null,
-        "rd": null,
-        "rdl": null,
-        "known": null,
+        "learn": 2,
+        "rd": "2024-08-20",
+        "rdl": "2024-08-18",
+        "known": true,
         "tags": []
     },
     "11": {
@@ -933,10 +933,10 @@
         "word": "go on (went, gone)",
         "transc": "[gəʊ ɒn]",
         "transl": "продолжать (-ся)",
-        "learn": null,
-        "rd": null,
-        "rdl": null,
-        "known": null,
+        "learn": 1,
+        "rd": "2024-08-19",
+        "rdl": "2024-08-18",
+        "known": false,
         "tags": []
     },
     "95": {
@@ -973,10 +973,10 @@
         "word": "complete",
         "transc": "[kəmˈpliːt]",
         "transl": "завершать (-ся)",
-        "learn": null,
-        "rd": null,
-        "rdl": null,
-        "known": null,
+        "learn": 2,
+        "rd": "2024-08-20",
+        "rdl": "2024-08-18",
+        "known": true,
         "tags": []
     },
     "99": {
@@ -1043,10 +1043,10 @@
         "word": "age",
         "transc": "[eɪʤ]",
         "transl": "эра, эпоха (также \"возраст\")",
-        "learn": null,
-        "rd": null,
+        "learn": 30,
+        "rd": "2024-09-17",
         "rdl": null,
-        "known": null,
+        "known": true,
         "tags": []
     },
     "106": {
@@ -1613,10 +1613,10 @@
         "word": "brother",
         "transc": "[ˈbrʌðə]",
         "transl": "брат",
-        "learn": null,
-        "rd": null,
-        "rdl": null,
-        "known": null,
+        "learn": 1,
+        "rd": "2024-08-19",
+        "rdl": "2024-08-18",
+        "known": false,
         "tags": []
     },
     "163": {
@@ -1763,10 +1763,10 @@
         "word": "aunt",
         "transc": "[ɑːnt]",
         "transl": "тетя",
-        "learn": 2,
-        "rd": "2024-08-19",
-        "rdl": "2024-08-17",
-        "known": true,
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
         "tags": []
     },
     "178": {
@@ -2403,10 +2403,10 @@
         "word": "knife",
         "transc": "[naɪf]",
         "transl": "нож",
-        "learn": null,
-        "rd": null,
-        "rdl": null,
-        "known": null,
+        "learn": 2,
+        "rd": "2024-08-20",
+        "rdl": "2024-08-18",
+        "known": true,
         "tags": []
     },
     "242": {
@@ -3733,10 +3733,10 @@
         "word": "employee",
         "transc": "[ˌɛmplɔɪˈiː]",
         "transl": "работник",
-        "learn": null,
-        "rd": null,
-        "rdl": null,
-        "known": null,
+        "learn": 1,
+        "rd": "2024-08-19",
+        "rdl": "2024-08-18",
+        "known": false,
         "tags": []
     },
     "375": {
@@ -4523,10 +4523,10 @@
         "word": "light",
         "transc": "[laɪt]",
         "transl": "светлый",
-        "learn": 2,
-        "rd": "2024-08-19",
-        "rdl": "2024-08-17",
-        "known": true,
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
         "tags": []
     },
     "454": {
@@ -5563,10 +5563,10 @@
         "word": "every day (week, month)",
         "transc": "[ˈɛvri deɪ] [wiːk] [mʌnθ]",
         "transl": "каждый день (неделю, месяц)",
-        "learn": null,
-        "rd": null,
+        "learn": 30,
+        "rd": "2024-09-17",
         "rdl": null,
-        "known": null,
+        "known": true,
         "tags": []
     },
     "558": {
@@ -5923,10 +5923,10 @@
         "word": "slowly",
         "transc": "[ˈsləʊli]",
         "transl": "медленно",
-        "learn": 1,
-        "rd": "2024-08-18",
-        "rdl": "2024-08-17",
-        "known": false,
+        "learn": null,
+        "rd": null,
+        "rdl": null,
+        "known": null,
         "tags": []
     },
     "594": {
